@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GigAtlas</title>
+<link rel="icon" href="logo.svg">
+<link rel="stylesheet" href="vendor/leaflet.min.css">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-in">
+    <div class="brand">
+      <img src="logo.svg" alt="GigAtlas logo" width="56" height="56">
+      <h1>GigAtlas - Smart Tour Planner</h1>
+    </div>
+    <span class="chip">Prototype · toy data</span>
+    <button class="ghost" id="themeBtn" type="button" aria-label="Switch between light and dark theme">Theme</button>
+  </div>
+  <nav class="progress" aria-label="Progress">
+    <ol class="steps" id="steps">
+      <li><button type="button" data-page="fans"><span class="n">1</span><span class="l">Find your fans</span></button></li>
+      <li><button type="button" data-page="dashboard"><span class="n">2</span><span class="l">Plan your route</span></button></li>
+      <li><button type="button" data-page="hotels"><span class="n">3</span><span class="l">Choose hotels</span></button></li>
+      <li><button type="button" data-page="review"><span class="n">4</span><span class="l">Review &amp; book</span></button></li>
+    </ol>
+    <div class="pbar" role="progressbar" aria-label="Planning progress" aria-valuemin="0" aria-valuemax="100" id="pbar"><div class="pfill" id="pfill"></div></div>
+    <div class="ptext" id="ptext"></div>
+  </nav>
+</header>
+
+<!-- STEP 1: find your fans -->
+<main class="page narrow" id="page-fans" hidden>
+  <section class="card hero">
+    <h2>Find Your Top Cities Based on Streaming &amp; Engagement Data</h2>
+    <p class="muted">Enter an artist to see where their fans are, a suggested tour route with gas costs, and hotels for every stop.</p>
+    <form id="findForm" class="find" autocomplete="off">
+      <label class="field grow"><span>Enter your artist name</span>
+        <input id="artistInput" list="artistList" spellcheck="false" placeholder="e.g. Nova Reyes">
+      </label>
+      <button class="btn primary" type="submit">Find Top Cities</button>
+    </form>
+    <datalist id="artistList"></datalist>
+    <div id="findMsg"></div>
+    <div class="quick" id="quickPicks"></div>
+  </section>
+</main>
+
+<!-- STEP 2: tour dashboard -->
+<main class="page" id="page-dashboard" hidden>
+  <div class="page-head">
+    <div><div class="eyebrow" id="dashEyebrow"></div><h2 id="dashTitle"></h2></div>
+    <button class="btn" type="button" data-goto="fans">← Change artist</button>
+  </div>
+
+  <section class="card pad">
+    <div class="sec-h"><h3>Suggested Route &amp; Gas Costs</h3><span class="huddle" data-huddle="route"></span></div>
+    <div class="map-dash">
+      <div class="map-col">
+        <div id="routeStats" class="stats"></div>
+        <div id="map" role="img" aria-label="Map of the tour route"></div>
+      </div>
+      <div class="fpanel" id="filters" aria-label="Adjust your tour"></div>
+    </div>
+    <div id="routeMsg"></div>
+    <div id="schedule"></div>
+    <div class="confirm-row">
+      <span class="muted small" id="confirmNote"></span>
+      <button class="btn primary" id="confirmBtn" type="button">Confirm route &amp; choose hotels →</button>
+    </div>
+  </section>
+
+  <div class="split">
+    <section class="card pad">
+      <div class="sec-h spread"><span class="sec-h"><h3>Top Cities</h3><span class="huddle" data-huddle="index"></span></span>
+        <label class="inline-select"><span class="muted small">Show</span><select id="showSel"><option value="top">Top 10</option><option value="all">All 40 cities</option></select></label></div>
+      <p class="muted small">Click a city to see its fan data.</p>
+      <div id="citiesTable"></div>
+    </section>
+    <aside class="card pad" id="cityCard" aria-live="polite"></aside>
+  </div>
+</main>
+
+<!-- STEP 3: hotels -->
+<main class="page" id="page-hotels" hidden>
+  <div class="page-head">
+    <div><div class="eyebrow" id="hotelEyebrow"></div><h2>Choose Your Hotels</h2></div>
+    <button class="btn" type="button" data-goto="dashboard">← Back to route</button>
+  </div>
+  <div class="split">
+    <section class="card pad">
+      <div class="hotel-head">
+        <label class="field"><span>Tour city</span><select id="stopSel"></select></label>
+        <label class="field"><span>Price per night</span><select id="priceSel"></select></label>
+        <label class="field"><span>Rating</span><select id="ratingSel"></select></label>
+        <span class="huddle" data-huddle="hotels"></span>
+      </div>
+      <p class="muted small" id="stayNote"></p>
+      <div id="hotelList"></div>
+    </section>
+    <aside class="card pad" id="tripSummary"></aside>
+  </div>
+</main>
+
+<!-- STEP 4: review & book -->
+<main class="page" id="page-review" hidden>
+  <div class="page-head">
+    <div><div class="eyebrow" id="reviewEyebrow"></div><h2>Review Your Tour</h2></div>
+    <button class="btn" type="button" data-goto="hotels">← Back to hotels</button>
+  </div>
+  <div id="bookMsg"></div>
+  <div class="split">
+    <section class="card pad">
+      <h3>Route</h3>
+      <div id="map2" role="img" aria-label="Map of the confirmed tour route"></div>
+      <div id="itinerary"></div>
+    </section>
+    <aside class="card pad" id="reviewSummary"></aside>
+  </div>
+</main>
+
+<dialog id="reviewDlg" aria-labelledby="dlgTitle">
+  <div class="dlg-head"><h3 id="dlgTitle"></h3><button class="ghost" type="button" id="dlgClose">Close</button></div>
+  <div id="dlgBody"></div>
+</dialog>
+
+<footer class="foot">Prototype built on toy data: numbers are examples, not real quotes. Hotel pictures, descriptions and reviews are generated placeholders. Map lines are straight lines between venues, not driving directions.</footer>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+<script src="vendor/leaflet.min.js"></script>
+<script src="us-states.js"></script>
+<script src="index_data.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

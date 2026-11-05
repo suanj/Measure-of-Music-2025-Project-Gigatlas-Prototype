@@ -1,0 +1,15 @@
+city,venue_name,venue_type,locality,capacity,expected_demand,capacity_fit,distance_miles,open_dates,open_weekend_dates,first_open_weekend,avg_ticket_price_usd,venue_score
+Portland,Echo Music Hall,music hall,Portland,5000,4684.0,1.07,3.9,69,23,2027-03-13,72,0.81
+Portland,Velvet Auditorium,music hall,Portland,4800,4684.0,1.02,1.4,56,12,2027-03-12,76,0.66
+Chicago,Northside Bowl,amphitheater,Chicago,8350,12211.0,0.68,0.6,53,20,2027-05-01,76,0.69
+Seattle,Riverside Auditorium,music hall,Seattle,5100,4746.0,1.07,0.3,68,21,2027-03-05,50,0.84
+Boston,Echo Music Hall,music hall,Boston,4850,5957.0,0.81,0.0,66,18,2027-03-12,72,0.73
+Boston,Juniper Pavilion Hall,music hall,Boston,3500,5957.0,0.59,4.6,73,20,2027-03-06,88,0.56
+Austin,Harbor Pavilion Hall,music hall,Austin,3950,3116.0,1.27,0.2,72,25,2027-03-07,77,0.82
+Austin,Harbor Playhouse,theater,Austin,2050,3116.0,0.66,4.7,63,23,2027-03-05,56,0.66
+Austin,Juniper Theater,theater,Austin,1750,3116.0,0.56,1.7,69,16,2027-03-12,60,0.53
+Minneapolis,Velvet Music Hall,music hall,Minneapolis,4100,3898.0,1.05,0.1,80,21,2027-03-06,69,0.85
+Los Angeles,Granite Arena,arena,Los Angeles,13550,9595.0,1.41,2.5,75,27,2027-03-06,125,0.74
+Los Angeles,Summit Bowl,amphitheater,Los Angeles,8650,9595.0,0.9,2.0,44,14,2027-05-01,88,0.65
+Los Angeles,Blue Pavilion Hall,music hall,Los Angeles,5300,9595.0,0.55,4.5,76,25,2027-03-06,66,0.65
+Nashville,Summit Auditorium,music hall,Nashville,2750,2173.0,1.27,0.7,75,24,2027-03-05,77,0.79

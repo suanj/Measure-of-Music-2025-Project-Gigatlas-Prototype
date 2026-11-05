@@ -1,0 +1,940 @@
+venue_id,event_date,booked,is_weekend,venue_name
+V0200,2027-03-01,,False,Echo Music Hall
+V0200,2027-03-03,,False,Echo Music Hall
+V0200,2027-03-04,,False,Echo Music Hall
+V0200,2027-03-08,,False,Echo Music Hall
+V0200,2027-03-10,,False,Echo Music Hall
+V0200,2027-03-13,,True,Echo Music Hall
+V0200,2027-03-14,,True,Echo Music Hall
+V0200,2027-03-15,,False,Echo Music Hall
+V0200,2027-03-18,,False,Echo Music Hall
+V0200,2027-03-19,,True,Echo Music Hall
+V0200,2027-03-20,,True,Echo Music Hall
+V0200,2027-03-21,,True,Echo Music Hall
+V0200,2027-03-23,,False,Echo Music Hall
+V0200,2027-03-24,,False,Echo Music Hall
+V0200,2027-03-29,,False,Echo Music Hall
+V0200,2027-03-31,,False,Echo Music Hall
+V0200,2027-04-02,,True,Echo Music Hall
+V0200,2027-04-04,,True,Echo Music Hall
+V0200,2027-04-06,,False,Echo Music Hall
+V0200,2027-04-07,,False,Echo Music Hall
+V0200,2027-04-08,,False,Echo Music Hall
+V0200,2027-04-09,,True,Echo Music Hall
+V0200,2027-04-11,,True,Echo Music Hall
+V0200,2027-04-12,,False,Echo Music Hall
+V0200,2027-04-14,,False,Echo Music Hall
+V0200,2027-04-15,,False,Echo Music Hall
+V0200,2027-04-17,,True,Echo Music Hall
+V0200,2027-04-18,,True,Echo Music Hall
+V0200,2027-04-20,,False,Echo Music Hall
+V0200,2027-04-21,,False,Echo Music Hall
+V0200,2027-04-22,,False,Echo Music Hall
+V0200,2027-04-26,,False,Echo Music Hall
+V0200,2027-04-27,,False,Echo Music Hall
+V0200,2027-04-29,,False,Echo Music Hall
+V0200,2027-04-30,,True,Echo Music Hall
+V0200,2027-05-03,,False,Echo Music Hall
+V0200,2027-05-04,,False,Echo Music Hall
+V0200,2027-05-06,,False,Echo Music Hall
+V0200,2027-05-09,,True,Echo Music Hall
+V0200,2027-05-10,,False,Echo Music Hall
+V0200,2027-05-12,,False,Echo Music Hall
+V0200,2027-05-14,,True,Echo Music Hall
+V0200,2027-05-16,,True,Echo Music Hall
+V0200,2027-05-17,,False,Echo Music Hall
+V0200,2027-05-19,,False,Echo Music Hall
+V0200,2027-05-21,,True,Echo Music Hall
+V0200,2027-05-22,,True,Echo Music Hall
+V0200,2027-05-23,,True,Echo Music Hall
+V0200,2027-05-24,,False,Echo Music Hall
+V0200,2027-05-25,,False,Echo Music Hall
+V0200,2027-05-28,,True,Echo Music Hall
+V0200,2027-05-31,,False,Echo Music Hall
+V0200,2027-06-01,,False,Echo Music Hall
+V0200,2027-06-02,,False,Echo Music Hall
+V0200,2027-06-03,,False,Echo Music Hall
+V0200,2027-06-05,,True,Echo Music Hall
+V0200,2027-06-07,,False,Echo Music Hall
+V0200,2027-06-09,,False,Echo Music Hall
+V0200,2027-06-12,,True,Echo Music Hall
+V0200,2027-06-14,,False,Echo Music Hall
+V0200,2027-06-15,,False,Echo Music Hall
+V0200,2027-06-16,,False,Echo Music Hall
+V0200,2027-06-21,,False,Echo Music Hall
+V0200,2027-06-22,,False,Echo Music Hall
+V0200,2027-06-23,,False,Echo Music Hall
+V0200,2027-06-24,,False,Echo Music Hall
+V0200,2027-06-25,,True,Echo Music Hall
+V0200,2027-06-26,,True,Echo Music Hall
+V0200,2027-06-29,,False,Echo Music Hall
+V0205,2027-03-01,,False,Velvet Auditorium
+V0205,2027-03-02,,False,Velvet Auditorium
+V0205,2027-03-04,,False,Velvet Auditorium
+V0205,2027-03-08,,False,Velvet Auditorium
+V0205,2027-03-09,,False,Velvet Auditorium
+V0205,2027-03-11,,False,Velvet Auditorium
+V0205,2027-03-12,,True,Velvet Auditorium
+V0205,2027-03-13,,True,Velvet Auditorium
+V0205,2027-03-16,,False,Velvet Auditorium
+V0205,2027-03-17,,False,Velvet Auditorium
+V0205,2027-03-22,,False,Velvet Auditorium
+V0205,2027-03-23,,False,Velvet Auditorium
+V0205,2027-03-24,,False,Velvet Auditorium
+V0205,2027-03-26,,True,Velvet Auditorium
+V0205,2027-03-28,,True,Velvet Auditorium
+V0205,2027-03-29,,False,Velvet Auditorium
+V0205,2027-03-30,,False,Velvet Auditorium
+V0205,2027-04-06,,False,Velvet Auditorium
+V0205,2027-04-07,,False,Velvet Auditorium
+V0205,2027-04-08,,False,Velvet Auditorium
+V0205,2027-04-10,,True,Velvet Auditorium
+V0205,2027-04-13,,False,Velvet Auditorium
+V0205,2027-04-14,,False,Velvet Auditorium
+V0205,2027-04-16,,True,Velvet Auditorium
+V0205,2027-04-17,,True,Velvet Auditorium
+V0205,2027-04-19,,False,Velvet Auditorium
+V0205,2027-04-20,,False,Velvet Auditorium
+V0205,2027-04-25,,True,Velvet Auditorium
+V0205,2027-04-26,,False,Velvet Auditorium
+V0205,2027-05-02,,True,Velvet Auditorium
+V0205,2027-05-03,,False,Velvet Auditorium
+V0205,2027-05-04,,False,Velvet Auditorium
+V0205,2027-05-05,,False,Velvet Auditorium
+V0205,2027-05-07,,True,Velvet Auditorium
+V0205,2027-05-10,,False,Velvet Auditorium
+V0205,2027-05-11,,False,Velvet Auditorium
+V0205,2027-05-12,,False,Velvet Auditorium
+V0205,2027-05-17,,False,Velvet Auditorium
+V0205,2027-05-21,,True,Velvet Auditorium
+V0205,2027-05-25,,False,Velvet Auditorium
+V0205,2027-05-27,,False,Velvet Auditorium
+V0205,2027-06-01,,False,Velvet Auditorium
+V0205,2027-06-03,,False,Velvet Auditorium
+V0205,2027-06-06,,True,Velvet Auditorium
+V0205,2027-06-07,,False,Velvet Auditorium
+V0205,2027-06-08,,False,Velvet Auditorium
+V0205,2027-06-14,,False,Velvet Auditorium
+V0205,2027-06-15,,False,Velvet Auditorium
+V0205,2027-06-17,,False,Velvet Auditorium
+V0205,2027-06-21,,False,Velvet Auditorium
+V0205,2027-06-22,,False,Velvet Auditorium
+V0205,2027-06-23,,False,Velvet Auditorium
+V0205,2027-06-24,,False,Velvet Auditorium
+V0205,2027-06-28,,False,Velvet Auditorium
+V0205,2027-06-29,,False,Velvet Auditorium
+V0205,2027-06-30,,False,Velvet Auditorium
+V0039,2027-05-01,,True,Northside Bowl
+V0039,2027-05-02,,True,Northside Bowl
+V0039,2027-05-03,,False,Northside Bowl
+V0039,2027-05-05,,False,Northside Bowl
+V0039,2027-05-06,,False,Northside Bowl
+V0039,2027-05-07,,True,Northside Bowl
+V0039,2027-05-08,,True,Northside Bowl
+V0039,2027-05-09,,True,Northside Bowl
+V0039,2027-05-10,,False,Northside Bowl
+V0039,2027-05-11,,False,Northside Bowl
+V0039,2027-05-12,,False,Northside Bowl
+V0039,2027-05-13,,False,Northside Bowl
+V0039,2027-05-14,,True,Northside Bowl
+V0039,2027-05-15,,True,Northside Bowl
+V0039,2027-05-17,,False,Northside Bowl
+V0039,2027-05-18,,False,Northside Bowl
+V0039,2027-05-19,,False,Northside Bowl
+V0039,2027-05-20,,False,Northside Bowl
+V0039,2027-05-23,,True,Northside Bowl
+V0039,2027-05-24,,False,Northside Bowl
+V0039,2027-05-25,,False,Northside Bowl
+V0039,2027-05-26,,False,Northside Bowl
+V0039,2027-05-27,,False,Northside Bowl
+V0039,2027-05-28,,True,Northside Bowl
+V0039,2027-05-29,,True,Northside Bowl
+V0039,2027-05-30,,True,Northside Bowl
+V0039,2027-05-31,,False,Northside Bowl
+V0039,2027-06-01,,False,Northside Bowl
+V0039,2027-06-02,,False,Northside Bowl
+V0039,2027-06-03,,False,Northside Bowl
+V0039,2027-06-04,,True,Northside Bowl
+V0039,2027-06-05,,True,Northside Bowl
+V0039,2027-06-06,,True,Northside Bowl
+V0039,2027-06-07,,False,Northside Bowl
+V0039,2027-06-08,,False,Northside Bowl
+V0039,2027-06-09,,False,Northside Bowl
+V0039,2027-06-10,,False,Northside Bowl
+V0039,2027-06-11,,True,Northside Bowl
+V0039,2027-06-12,,True,Northside Bowl
+V0039,2027-06-14,,False,Northside Bowl
+V0039,2027-06-15,,False,Northside Bowl
+V0039,2027-06-16,,False,Northside Bowl
+V0039,2027-06-17,,False,Northside Bowl
+V0039,2027-06-18,,True,Northside Bowl
+V0039,2027-06-20,,True,Northside Bowl
+V0039,2027-06-22,,False,Northside Bowl
+V0039,2027-06-23,,False,Northside Bowl
+V0039,2027-06-24,,False,Northside Bowl
+V0039,2027-06-26,,True,Northside Bowl
+V0039,2027-06-27,,True,Northside Bowl
+V0039,2027-06-28,,False,Northside Bowl
+V0039,2027-06-29,,False,Northside Bowl
+V0039,2027-06-30,,False,Northside Bowl
+V0137,2027-03-01,,False,Riverside Auditorium
+V0137,2027-03-03,,False,Riverside Auditorium
+V0137,2027-03-04,,False,Riverside Auditorium
+V0137,2027-03-05,,True,Riverside Auditorium
+V0137,2027-03-06,,True,Riverside Auditorium
+V0137,2027-03-07,,True,Riverside Auditorium
+V0137,2027-03-08,,False,Riverside Auditorium
+V0137,2027-03-09,,False,Riverside Auditorium
+V0137,2027-03-11,,False,Riverside Auditorium
+V0137,2027-03-15,,False,Riverside Auditorium
+V0137,2027-03-17,,False,Riverside Auditorium
+V0137,2027-03-18,,False,Riverside Auditorium
+V0137,2027-03-19,,True,Riverside Auditorium
+V0137,2027-03-23,,False,Riverside Auditorium
+V0137,2027-03-24,,False,Riverside Auditorium
+V0137,2027-03-25,,False,Riverside Auditorium
+V0137,2027-03-26,,True,Riverside Auditorium
+V0137,2027-03-28,,True,Riverside Auditorium
+V0137,2027-03-29,,False,Riverside Auditorium
+V0137,2027-04-01,,False,Riverside Auditorium
+V0137,2027-04-02,,True,Riverside Auditorium
+V0137,2027-04-04,,True,Riverside Auditorium
+V0137,2027-04-05,,False,Riverside Auditorium
+V0137,2027-04-07,,False,Riverside Auditorium
+V0137,2027-04-08,,False,Riverside Auditorium
+V0137,2027-04-10,,True,Riverside Auditorium
+V0137,2027-04-11,,True,Riverside Auditorium
+V0137,2027-04-12,,False,Riverside Auditorium
+V0137,2027-04-14,,False,Riverside Auditorium
+V0137,2027-04-18,,True,Riverside Auditorium
+V0137,2027-04-21,,False,Riverside Auditorium
+V0137,2027-04-22,,False,Riverside Auditorium
+V0137,2027-04-26,,False,Riverside Auditorium
+V0137,2027-04-30,,True,Riverside Auditorium
+V0137,2027-05-03,,False,Riverside Auditorium
+V0137,2027-05-05,,False,Riverside Auditorium
+V0137,2027-05-06,,False,Riverside Auditorium
+V0137,2027-05-10,,False,Riverside Auditorium
+V0137,2027-05-11,,False,Riverside Auditorium
+V0137,2027-05-12,,False,Riverside Auditorium
+V0137,2027-05-13,,False,Riverside Auditorium
+V0137,2027-05-16,,True,Riverside Auditorium
+V0137,2027-05-17,,False,Riverside Auditorium
+V0137,2027-05-18,,False,Riverside Auditorium
+V0137,2027-05-19,,False,Riverside Auditorium
+V0137,2027-05-20,,False,Riverside Auditorium
+V0137,2027-05-23,,True,Riverside Auditorium
+V0137,2027-05-24,,False,Riverside Auditorium
+V0137,2027-05-27,,False,Riverside Auditorium
+V0137,2027-05-28,,True,Riverside Auditorium
+V0137,2027-05-31,,False,Riverside Auditorium
+V0137,2027-06-03,,False,Riverside Auditorium
+V0137,2027-06-05,,True,Riverside Auditorium
+V0137,2027-06-06,,True,Riverside Auditorium
+V0137,2027-06-07,,False,Riverside Auditorium
+V0137,2027-06-09,,False,Riverside Auditorium
+V0137,2027-06-14,,False,Riverside Auditorium
+V0137,2027-06-15,,False,Riverside Auditorium
+V0137,2027-06-16,,False,Riverside Auditorium
+V0137,2027-06-17,,False,Riverside Auditorium
+V0137,2027-06-18,,True,Riverside Auditorium
+V0137,2027-06-20,,True,Riverside Auditorium
+V0137,2027-06-21,,False,Riverside Auditorium
+V0137,2027-06-24,,False,Riverside Auditorium
+V0137,2027-06-26,,True,Riverside Auditorium
+V0137,2027-06-27,,True,Riverside Auditorium
+V0137,2027-06-28,,False,Riverside Auditorium
+V0137,2027-06-29,,False,Riverside Auditorium
+V0117,2027-03-01,,False,Echo Music Hall
+V0117,2027-03-09,,False,Echo Music Hall
+V0117,2027-03-10,,False,Echo Music Hall
+V0117,2027-03-11,,False,Echo Music Hall
+V0117,2027-03-12,,True,Echo Music Hall
+V0117,2027-03-13,,True,Echo Music Hall
+V0117,2027-03-15,,False,Echo Music Hall
+V0117,2027-03-17,,False,Echo Music Hall
+V0117,2027-03-18,,False,Echo Music Hall
+V0117,2027-03-19,,True,Echo Music Hall
+V0117,2027-03-20,,True,Echo Music Hall
+V0117,2027-03-22,,False,Echo Music Hall
+V0117,2027-03-25,,False,Echo Music Hall
+V0117,2027-03-26,,True,Echo Music Hall
+V0117,2027-03-29,,False,Echo Music Hall
+V0117,2027-03-30,,False,Echo Music Hall
+V0117,2027-04-05,,False,Echo Music Hall
+V0117,2027-04-07,,False,Echo Music Hall
+V0117,2027-04-12,,False,Echo Music Hall
+V0117,2027-04-14,,False,Echo Music Hall
+V0117,2027-04-17,,True,Echo Music Hall
+V0117,2027-04-19,,False,Echo Music Hall
+V0117,2027-04-20,,False,Echo Music Hall
+V0117,2027-04-21,,False,Echo Music Hall
+V0117,2027-04-22,,False,Echo Music Hall
+V0117,2027-04-23,,True,Echo Music Hall
+V0117,2027-04-24,,True,Echo Music Hall
+V0117,2027-04-26,,False,Echo Music Hall
+V0117,2027-04-30,,True,Echo Music Hall
+V0117,2027-05-02,,True,Echo Music Hall
+V0117,2027-05-03,,False,Echo Music Hall
+V0117,2027-05-04,,False,Echo Music Hall
+V0117,2027-05-05,,False,Echo Music Hall
+V0117,2027-05-06,,False,Echo Music Hall
+V0117,2027-05-10,,False,Echo Music Hall
+V0117,2027-05-11,,False,Echo Music Hall
+V0117,2027-05-12,,False,Echo Music Hall
+V0117,2027-05-13,,False,Echo Music Hall
+V0117,2027-05-15,,True,Echo Music Hall
+V0117,2027-05-19,,False,Echo Music Hall
+V0117,2027-05-20,,False,Echo Music Hall
+V0117,2027-05-22,,True,Echo Music Hall
+V0117,2027-05-24,,False,Echo Music Hall
+V0117,2027-05-25,,False,Echo Music Hall
+V0117,2027-05-26,,False,Echo Music Hall
+V0117,2027-05-27,,False,Echo Music Hall
+V0117,2027-05-30,,True,Echo Music Hall
+V0117,2027-05-31,,False,Echo Music Hall
+V0117,2027-06-01,,False,Echo Music Hall
+V0117,2027-06-06,,True,Echo Music Hall
+V0117,2027-06-07,,False,Echo Music Hall
+V0117,2027-06-08,,False,Echo Music Hall
+V0117,2027-06-09,,False,Echo Music Hall
+V0117,2027-06-10,,False,Echo Music Hall
+V0117,2027-06-14,,False,Echo Music Hall
+V0117,2027-06-16,,False,Echo Music Hall
+V0117,2027-06-17,,False,Echo Music Hall
+V0117,2027-06-19,,True,Echo Music Hall
+V0117,2027-06-20,,True,Echo Music Hall
+V0117,2027-06-21,,False,Echo Music Hall
+V0117,2027-06-22,,False,Echo Music Hall
+V0117,2027-06-24,,False,Echo Music Hall
+V0117,2027-06-25,,True,Echo Music Hall
+V0117,2027-06-26,,True,Echo Music Hall
+V0117,2027-06-28,,False,Echo Music Hall
+V0117,2027-06-30,,False,Echo Music Hall
+V0119,2027-03-01,,False,Juniper Pavilion Hall
+V0119,2027-03-03,,False,Juniper Pavilion Hall
+V0119,2027-03-04,,False,Juniper Pavilion Hall
+V0119,2027-03-06,,True,Juniper Pavilion Hall
+V0119,2027-03-09,,False,Juniper Pavilion Hall
+V0119,2027-03-10,,False,Juniper Pavilion Hall
+V0119,2027-03-14,,True,Juniper Pavilion Hall
+V0119,2027-03-15,,False,Juniper Pavilion Hall
+V0119,2027-03-16,,False,Juniper Pavilion Hall
+V0119,2027-03-17,,False,Juniper Pavilion Hall
+V0119,2027-03-18,,False,Juniper Pavilion Hall
+V0119,2027-03-22,,False,Juniper Pavilion Hall
+V0119,2027-03-23,,False,Juniper Pavilion Hall
+V0119,2027-03-25,,False,Juniper Pavilion Hall
+V0119,2027-03-26,,True,Juniper Pavilion Hall
+V0119,2027-03-29,,False,Juniper Pavilion Hall
+V0119,2027-03-30,,False,Juniper Pavilion Hall
+V0119,2027-03-31,,False,Juniper Pavilion Hall
+V0119,2027-04-02,,True,Juniper Pavilion Hall
+V0119,2027-04-03,,True,Juniper Pavilion Hall
+V0119,2027-04-04,,True,Juniper Pavilion Hall
+V0119,2027-04-05,,False,Juniper Pavilion Hall
+V0119,2027-04-08,,False,Juniper Pavilion Hall
+V0119,2027-04-11,,True,Juniper Pavilion Hall
+V0119,2027-04-12,,False,Juniper Pavilion Hall
+V0119,2027-04-13,,False,Juniper Pavilion Hall
+V0119,2027-04-14,,False,Juniper Pavilion Hall
+V0119,2027-04-15,,False,Juniper Pavilion Hall
+V0119,2027-04-16,,True,Juniper Pavilion Hall
+V0119,2027-04-19,,False,Juniper Pavilion Hall
+V0119,2027-04-21,,False,Juniper Pavilion Hall
+V0119,2027-04-22,,False,Juniper Pavilion Hall
+V0119,2027-04-23,,True,Juniper Pavilion Hall
+V0119,2027-04-24,,True,Juniper Pavilion Hall
+V0119,2027-04-27,,False,Juniper Pavilion Hall
+V0119,2027-04-28,,False,Juniper Pavilion Hall
+V0119,2027-04-29,,False,Juniper Pavilion Hall
+V0119,2027-04-30,,True,Juniper Pavilion Hall
+V0119,2027-05-03,,False,Juniper Pavilion Hall
+V0119,2027-05-04,,False,Juniper Pavilion Hall
+V0119,2027-05-05,,False,Juniper Pavilion Hall
+V0119,2027-05-06,,False,Juniper Pavilion Hall
+V0119,2027-05-10,,False,Juniper Pavilion Hall
+V0119,2027-05-12,,False,Juniper Pavilion Hall
+V0119,2027-05-13,,False,Juniper Pavilion Hall
+V0119,2027-05-14,,True,Juniper Pavilion Hall
+V0119,2027-05-15,,True,Juniper Pavilion Hall
+V0119,2027-05-16,,True,Juniper Pavilion Hall
+V0119,2027-05-17,,False,Juniper Pavilion Hall
+V0119,2027-05-18,,False,Juniper Pavilion Hall
+V0119,2027-05-20,,False,Juniper Pavilion Hall
+V0119,2027-05-24,,False,Juniper Pavilion Hall
+V0119,2027-05-25,,False,Juniper Pavilion Hall
+V0119,2027-05-27,,False,Juniper Pavilion Hall
+V0119,2027-05-30,,True,Juniper Pavilion Hall
+V0119,2027-05-31,,False,Juniper Pavilion Hall
+V0119,2027-06-01,,False,Juniper Pavilion Hall
+V0119,2027-06-02,,False,Juniper Pavilion Hall
+V0119,2027-06-03,,False,Juniper Pavilion Hall
+V0119,2027-06-04,,True,Juniper Pavilion Hall
+V0119,2027-06-06,,True,Juniper Pavilion Hall
+V0119,2027-06-07,,False,Juniper Pavilion Hall
+V0119,2027-06-08,,False,Juniper Pavilion Hall
+V0119,2027-06-12,,True,Juniper Pavilion Hall
+V0119,2027-06-15,,False,Juniper Pavilion Hall
+V0119,2027-06-16,,False,Juniper Pavilion Hall
+V0119,2027-06-17,,False,Juniper Pavilion Hall
+V0119,2027-06-18,,True,Juniper Pavilion Hall
+V0119,2027-06-21,,False,Juniper Pavilion Hall
+V0119,2027-06-22,,False,Juniper Pavilion Hall
+V0119,2027-06-24,,False,Juniper Pavilion Hall
+V0119,2027-06-26,,True,Juniper Pavilion Hall
+V0119,2027-06-28,,False,Juniper Pavilion Hall
+V0220,2027-03-03,,False,Harbor Playhouse
+V0220,2027-03-05,,True,Harbor Playhouse
+V0220,2027-03-06,,True,Harbor Playhouse
+V0220,2027-03-07,,True,Harbor Playhouse
+V0220,2027-03-11,,False,Harbor Playhouse
+V0220,2027-03-12,,True,Harbor Playhouse
+V0220,2027-03-15,,False,Harbor Playhouse
+V0220,2027-03-17,,False,Harbor Playhouse
+V0220,2027-03-19,,True,Harbor Playhouse
+V0220,2027-03-20,,True,Harbor Playhouse
+V0220,2027-03-22,,False,Harbor Playhouse
+V0220,2027-03-24,,False,Harbor Playhouse
+V0220,2027-03-25,,False,Harbor Playhouse
+V0220,2027-03-26,,True,Harbor Playhouse
+V0220,2027-03-27,,True,Harbor Playhouse
+V0220,2027-03-29,,False,Harbor Playhouse
+V0220,2027-04-01,,False,Harbor Playhouse
+V0220,2027-04-04,,True,Harbor Playhouse
+V0220,2027-04-05,,False,Harbor Playhouse
+V0220,2027-04-07,,False,Harbor Playhouse
+V0220,2027-04-11,,True,Harbor Playhouse
+V0220,2027-04-12,,False,Harbor Playhouse
+V0220,2027-04-16,,True,Harbor Playhouse
+V0220,2027-04-18,,True,Harbor Playhouse
+V0220,2027-04-19,,False,Harbor Playhouse
+V0220,2027-04-20,,False,Harbor Playhouse
+V0220,2027-04-21,,False,Harbor Playhouse
+V0220,2027-04-23,,True,Harbor Playhouse
+V0220,2027-04-24,,True,Harbor Playhouse
+V0220,2027-04-25,,True,Harbor Playhouse
+V0220,2027-04-28,,False,Harbor Playhouse
+V0220,2027-04-29,,False,Harbor Playhouse
+V0220,2027-05-01,,True,Harbor Playhouse
+V0220,2027-05-05,,False,Harbor Playhouse
+V0220,2027-05-09,,True,Harbor Playhouse
+V0220,2027-05-10,,False,Harbor Playhouse
+V0220,2027-05-11,,False,Harbor Playhouse
+V0220,2027-05-19,,False,Harbor Playhouse
+V0220,2027-05-20,,False,Harbor Playhouse
+V0220,2027-05-24,,False,Harbor Playhouse
+V0220,2027-05-25,,False,Harbor Playhouse
+V0220,2027-05-29,,True,Harbor Playhouse
+V0220,2027-05-31,,False,Harbor Playhouse
+V0220,2027-06-01,,False,Harbor Playhouse
+V0220,2027-06-02,,False,Harbor Playhouse
+V0220,2027-06-03,,False,Harbor Playhouse
+V0220,2027-06-05,,True,Harbor Playhouse
+V0220,2027-06-06,,True,Harbor Playhouse
+V0220,2027-06-08,,False,Harbor Playhouse
+V0220,2027-06-09,,False,Harbor Playhouse
+V0220,2027-06-10,,False,Harbor Playhouse
+V0220,2027-06-12,,True,Harbor Playhouse
+V0220,2027-06-14,,False,Harbor Playhouse
+V0220,2027-06-15,,False,Harbor Playhouse
+V0220,2027-06-16,,False,Harbor Playhouse
+V0220,2027-06-17,,False,Harbor Playhouse
+V0220,2027-06-18,,True,Harbor Playhouse
+V0220,2027-06-20,,True,Harbor Playhouse
+V0220,2027-06-21,,False,Harbor Playhouse
+V0220,2027-06-22,,False,Harbor Playhouse
+V0220,2027-06-24,,False,Harbor Playhouse
+V0220,2027-06-29,,False,Harbor Playhouse
+V0220,2027-06-30,,False,Harbor Playhouse
+V0222,2027-03-01,,False,Harbor Pavilion Hall
+V0222,2027-03-02,,False,Harbor Pavilion Hall
+V0222,2027-03-07,,True,Harbor Pavilion Hall
+V0222,2027-03-08,,False,Harbor Pavilion Hall
+V0222,2027-03-09,,False,Harbor Pavilion Hall
+V0222,2027-03-10,,False,Harbor Pavilion Hall
+V0222,2027-03-11,,False,Harbor Pavilion Hall
+V0222,2027-03-12,,True,Harbor Pavilion Hall
+V0222,2027-03-14,,True,Harbor Pavilion Hall
+V0222,2027-03-15,,False,Harbor Pavilion Hall
+V0222,2027-03-16,,False,Harbor Pavilion Hall
+V0222,2027-03-18,,False,Harbor Pavilion Hall
+V0222,2027-03-19,,True,Harbor Pavilion Hall
+V0222,2027-03-20,,True,Harbor Pavilion Hall
+V0222,2027-03-21,,True,Harbor Pavilion Hall
+V0222,2027-03-22,,False,Harbor Pavilion Hall
+V0222,2027-03-24,,False,Harbor Pavilion Hall
+V0222,2027-03-26,,True,Harbor Pavilion Hall
+V0222,2027-03-28,,True,Harbor Pavilion Hall
+V0222,2027-03-30,,False,Harbor Pavilion Hall
+V0222,2027-03-31,,False,Harbor Pavilion Hall
+V0222,2027-04-03,,True,Harbor Pavilion Hall
+V0222,2027-04-04,,True,Harbor Pavilion Hall
+V0222,2027-04-05,,False,Harbor Pavilion Hall
+V0222,2027-04-06,,False,Harbor Pavilion Hall
+V0222,2027-04-08,,False,Harbor Pavilion Hall
+V0222,2027-04-11,,True,Harbor Pavilion Hall
+V0222,2027-04-14,,False,Harbor Pavilion Hall
+V0222,2027-04-15,,False,Harbor Pavilion Hall
+V0222,2027-04-16,,True,Harbor Pavilion Hall
+V0222,2027-04-17,,True,Harbor Pavilion Hall
+V0222,2027-04-19,,False,Harbor Pavilion Hall
+V0222,2027-04-20,,False,Harbor Pavilion Hall
+V0222,2027-04-21,,False,Harbor Pavilion Hall
+V0222,2027-04-22,,False,Harbor Pavilion Hall
+V0222,2027-04-23,,True,Harbor Pavilion Hall
+V0222,2027-04-24,,True,Harbor Pavilion Hall
+V0222,2027-04-26,,False,Harbor Pavilion Hall
+V0222,2027-04-27,,False,Harbor Pavilion Hall
+V0222,2027-04-28,,False,Harbor Pavilion Hall
+V0222,2027-04-29,,False,Harbor Pavilion Hall
+V0222,2027-05-01,,True,Harbor Pavilion Hall
+V0222,2027-05-02,,True,Harbor Pavilion Hall
+V0222,2027-05-04,,False,Harbor Pavilion Hall
+V0222,2027-05-08,,True,Harbor Pavilion Hall
+V0222,2027-05-10,,False,Harbor Pavilion Hall
+V0222,2027-05-11,,False,Harbor Pavilion Hall
+V0222,2027-05-13,,False,Harbor Pavilion Hall
+V0222,2027-05-14,,True,Harbor Pavilion Hall
+V0222,2027-05-15,,True,Harbor Pavilion Hall
+V0222,2027-05-20,,False,Harbor Pavilion Hall
+V0222,2027-05-21,,True,Harbor Pavilion Hall
+V0222,2027-05-24,,False,Harbor Pavilion Hall
+V0222,2027-05-26,,False,Harbor Pavilion Hall
+V0222,2027-05-27,,False,Harbor Pavilion Hall
+V0222,2027-05-30,,True,Harbor Pavilion Hall
+V0222,2027-06-01,,False,Harbor Pavilion Hall
+V0222,2027-06-02,,False,Harbor Pavilion Hall
+V0222,2027-06-04,,True,Harbor Pavilion Hall
+V0222,2027-06-08,,False,Harbor Pavilion Hall
+V0222,2027-06-09,,False,Harbor Pavilion Hall
+V0222,2027-06-10,,False,Harbor Pavilion Hall
+V0222,2027-06-15,,False,Harbor Pavilion Hall
+V0222,2027-06-17,,False,Harbor Pavilion Hall
+V0222,2027-06-18,,True,Harbor Pavilion Hall
+V0222,2027-06-21,,False,Harbor Pavilion Hall
+V0222,2027-06-22,,False,Harbor Pavilion Hall
+V0222,2027-06-23,,False,Harbor Pavilion Hall
+V0222,2027-06-24,,False,Harbor Pavilion Hall
+V0222,2027-06-27,,True,Harbor Pavilion Hall
+V0222,2027-06-28,,False,Harbor Pavilion Hall
+V0222,2027-06-29,,False,Harbor Pavilion Hall
+V0223,2027-03-01,,False,Juniper Theater
+V0223,2027-03-02,,False,Juniper Theater
+V0223,2027-03-04,,False,Juniper Theater
+V0223,2027-03-09,,False,Juniper Theater
+V0223,2027-03-10,,False,Juniper Theater
+V0223,2027-03-11,,False,Juniper Theater
+V0223,2027-03-12,,True,Juniper Theater
+V0223,2027-03-13,,True,Juniper Theater
+V0223,2027-03-17,,False,Juniper Theater
+V0223,2027-03-18,,False,Juniper Theater
+V0223,2027-03-22,,False,Juniper Theater
+V0223,2027-03-23,,False,Juniper Theater
+V0223,2027-03-24,,False,Juniper Theater
+V0223,2027-03-25,,False,Juniper Theater
+V0223,2027-03-28,,True,Juniper Theater
+V0223,2027-03-29,,False,Juniper Theater
+V0223,2027-04-01,,False,Juniper Theater
+V0223,2027-04-03,,True,Juniper Theater
+V0223,2027-04-05,,False,Juniper Theater
+V0223,2027-04-06,,False,Juniper Theater
+V0223,2027-04-07,,False,Juniper Theater
+V0223,2027-04-08,,False,Juniper Theater
+V0223,2027-04-12,,False,Juniper Theater
+V0223,2027-04-13,,False,Juniper Theater
+V0223,2027-04-14,,False,Juniper Theater
+V0223,2027-04-15,,False,Juniper Theater
+V0223,2027-04-16,,True,Juniper Theater
+V0223,2027-04-18,,True,Juniper Theater
+V0223,2027-04-19,,False,Juniper Theater
+V0223,2027-04-20,,False,Juniper Theater
+V0223,2027-04-21,,False,Juniper Theater
+V0223,2027-04-22,,False,Juniper Theater
+V0223,2027-04-27,,False,Juniper Theater
+V0223,2027-04-28,,False,Juniper Theater
+V0223,2027-04-29,,False,Juniper Theater
+V0223,2027-05-01,,True,Juniper Theater
+V0223,2027-05-03,,False,Juniper Theater
+V0223,2027-05-04,,False,Juniper Theater
+V0223,2027-05-06,,False,Juniper Theater
+V0223,2027-05-07,,True,Juniper Theater
+V0223,2027-05-10,,False,Juniper Theater
+V0223,2027-05-11,,False,Juniper Theater
+V0223,2027-05-12,,False,Juniper Theater
+V0223,2027-05-13,,False,Juniper Theater
+V0223,2027-05-15,,True,Juniper Theater
+V0223,2027-05-16,,True,Juniper Theater
+V0223,2027-05-20,,False,Juniper Theater
+V0223,2027-05-21,,True,Juniper Theater
+V0223,2027-05-22,,True,Juniper Theater
+V0223,2027-05-24,,False,Juniper Theater
+V0223,2027-05-25,,False,Juniper Theater
+V0223,2027-05-27,,False,Juniper Theater
+V0223,2027-05-29,,True,Juniper Theater
+V0223,2027-05-30,,True,Juniper Theater
+V0223,2027-06-01,,False,Juniper Theater
+V0223,2027-06-03,,False,Juniper Theater
+V0223,2027-06-07,,False,Juniper Theater
+V0223,2027-06-10,,False,Juniper Theater
+V0223,2027-06-14,,False,Juniper Theater
+V0223,2027-06-15,,False,Juniper Theater
+V0223,2027-06-16,,False,Juniper Theater
+V0223,2027-06-18,,True,Juniper Theater
+V0223,2027-06-21,,False,Juniper Theater
+V0223,2027-06-22,,False,Juniper Theater
+V0223,2027-06-23,,False,Juniper Theater
+V0223,2027-06-25,,True,Juniper Theater
+V0223,2027-06-28,,False,Juniper Theater
+V0223,2027-06-29,,False,Juniper Theater
+V0223,2027-06-30,,False,Juniper Theater
+V0140,2027-03-01,,False,Velvet Music Hall
+V0140,2027-03-02,,False,Velvet Music Hall
+V0140,2027-03-03,,False,Velvet Music Hall
+V0140,2027-03-04,,False,Velvet Music Hall
+V0140,2027-03-06,,True,Velvet Music Hall
+V0140,2027-03-08,,False,Velvet Music Hall
+V0140,2027-03-09,,False,Velvet Music Hall
+V0140,2027-03-10,,False,Velvet Music Hall
+V0140,2027-03-11,,False,Velvet Music Hall
+V0140,2027-03-12,,True,Velvet Music Hall
+V0140,2027-03-13,,True,Velvet Music Hall
+V0140,2027-03-15,,False,Velvet Music Hall
+V0140,2027-03-16,,False,Velvet Music Hall
+V0140,2027-03-17,,False,Velvet Music Hall
+V0140,2027-03-18,,False,Velvet Music Hall
+V0140,2027-03-19,,True,Velvet Music Hall
+V0140,2027-03-22,,False,Velvet Music Hall
+V0140,2027-03-23,,False,Velvet Music Hall
+V0140,2027-03-24,,False,Velvet Music Hall
+V0140,2027-03-26,,True,Velvet Music Hall
+V0140,2027-03-28,,True,Velvet Music Hall
+V0140,2027-03-29,,False,Velvet Music Hall
+V0140,2027-03-30,,False,Velvet Music Hall
+V0140,2027-03-31,,False,Velvet Music Hall
+V0140,2027-04-01,,False,Velvet Music Hall
+V0140,2027-04-04,,True,Velvet Music Hall
+V0140,2027-04-05,,False,Velvet Music Hall
+V0140,2027-04-06,,False,Velvet Music Hall
+V0140,2027-04-07,,False,Velvet Music Hall
+V0140,2027-04-09,,True,Velvet Music Hall
+V0140,2027-04-12,,False,Velvet Music Hall
+V0140,2027-04-13,,False,Velvet Music Hall
+V0140,2027-04-14,,False,Velvet Music Hall
+V0140,2027-04-15,,False,Velvet Music Hall
+V0140,2027-04-17,,True,Velvet Music Hall
+V0140,2027-04-21,,False,Velvet Music Hall
+V0140,2027-04-25,,True,Velvet Music Hall
+V0140,2027-04-27,,False,Velvet Music Hall
+V0140,2027-04-29,,False,Velvet Music Hall
+V0140,2027-05-03,,False,Velvet Music Hall
+V0140,2027-05-04,,False,Velvet Music Hall
+V0140,2027-05-05,,False,Velvet Music Hall
+V0140,2027-05-06,,False,Velvet Music Hall
+V0140,2027-05-11,,False,Velvet Music Hall
+V0140,2027-05-13,,False,Velvet Music Hall
+V0140,2027-05-14,,True,Velvet Music Hall
+V0140,2027-05-15,,True,Velvet Music Hall
+V0140,2027-05-16,,True,Velvet Music Hall
+V0140,2027-05-17,,False,Velvet Music Hall
+V0140,2027-05-18,,False,Velvet Music Hall
+V0140,2027-05-22,,True,Velvet Music Hall
+V0140,2027-05-24,,False,Velvet Music Hall
+V0140,2027-05-25,,False,Velvet Music Hall
+V0140,2027-05-26,,False,Velvet Music Hall
+V0140,2027-05-27,,False,Velvet Music Hall
+V0140,2027-05-29,,True,Velvet Music Hall
+V0140,2027-05-31,,False,Velvet Music Hall
+V0140,2027-06-01,,False,Velvet Music Hall
+V0140,2027-06-03,,False,Velvet Music Hall
+V0140,2027-06-04,,True,Velvet Music Hall
+V0140,2027-06-07,,False,Velvet Music Hall
+V0140,2027-06-08,,False,Velvet Music Hall
+V0140,2027-06-09,,False,Velvet Music Hall
+V0140,2027-06-10,,False,Velvet Music Hall
+V0140,2027-06-11,,True,Velvet Music Hall
+V0140,2027-06-12,,True,Velvet Music Hall
+V0140,2027-06-14,,False,Velvet Music Hall
+V0140,2027-06-15,,False,Velvet Music Hall
+V0140,2027-06-16,,False,Velvet Music Hall
+V0140,2027-06-17,,False,Velvet Music Hall
+V0140,2027-06-18,,True,Velvet Music Hall
+V0140,2027-06-21,,False,Velvet Music Hall
+V0140,2027-06-22,,False,Velvet Music Hall
+V0140,2027-06-23,,False,Velvet Music Hall
+V0140,2027-06-24,,False,Velvet Music Hall
+V0140,2027-06-26,,True,Velvet Music Hall
+V0140,2027-06-27,,True,Velvet Music Hall
+V0140,2027-06-28,,False,Velvet Music Hall
+V0140,2027-06-29,,False,Velvet Music Hall
+V0140,2027-06-30,,False,Velvet Music Hall
+V0016,2027-03-01,,False,Granite Arena
+V0016,2027-03-03,,False,Granite Arena
+V0016,2027-03-04,,False,Granite Arena
+V0016,2027-03-06,,True,Granite Arena
+V0016,2027-03-09,,False,Granite Arena
+V0016,2027-03-11,,False,Granite Arena
+V0016,2027-03-14,,True,Granite Arena
+V0016,2027-03-15,,False,Granite Arena
+V0016,2027-03-16,,False,Granite Arena
+V0016,2027-03-17,,False,Granite Arena
+V0016,2027-03-21,,True,Granite Arena
+V0016,2027-03-23,,False,Granite Arena
+V0016,2027-03-24,,False,Granite Arena
+V0016,2027-03-26,,True,Granite Arena
+V0016,2027-03-28,,True,Granite Arena
+V0016,2027-03-29,,False,Granite Arena
+V0016,2027-03-30,,False,Granite Arena
+V0016,2027-03-31,,False,Granite Arena
+V0016,2027-04-01,,False,Granite Arena
+V0016,2027-04-02,,True,Granite Arena
+V0016,2027-04-03,,True,Granite Arena
+V0016,2027-04-04,,True,Granite Arena
+V0016,2027-04-05,,False,Granite Arena
+V0016,2027-04-06,,False,Granite Arena
+V0016,2027-04-08,,False,Granite Arena
+V0016,2027-04-10,,True,Granite Arena
+V0016,2027-04-11,,True,Granite Arena
+V0016,2027-04-12,,False,Granite Arena
+V0016,2027-04-13,,False,Granite Arena
+V0016,2027-04-17,,True,Granite Arena
+V0016,2027-04-20,,False,Granite Arena
+V0016,2027-04-21,,False,Granite Arena
+V0016,2027-04-23,,True,Granite Arena
+V0016,2027-04-26,,False,Granite Arena
+V0016,2027-04-28,,False,Granite Arena
+V0016,2027-05-01,,True,Granite Arena
+V0016,2027-05-03,,False,Granite Arena
+V0016,2027-05-04,,False,Granite Arena
+V0016,2027-05-05,,False,Granite Arena
+V0016,2027-05-06,,False,Granite Arena
+V0016,2027-05-08,,True,Granite Arena
+V0016,2027-05-11,,False,Granite Arena
+V0016,2027-05-12,,False,Granite Arena
+V0016,2027-05-13,,False,Granite Arena
+V0016,2027-05-14,,True,Granite Arena
+V0016,2027-05-15,,True,Granite Arena
+V0016,2027-05-16,,True,Granite Arena
+V0016,2027-05-18,,False,Granite Arena
+V0016,2027-05-22,,True,Granite Arena
+V0016,2027-05-24,,False,Granite Arena
+V0016,2027-05-26,,False,Granite Arena
+V0016,2027-05-29,,True,Granite Arena
+V0016,2027-05-31,,False,Granite Arena
+V0016,2027-06-01,,False,Granite Arena
+V0016,2027-06-02,,False,Granite Arena
+V0016,2027-06-04,,True,Granite Arena
+V0016,2027-06-06,,True,Granite Arena
+V0016,2027-06-08,,False,Granite Arena
+V0016,2027-06-09,,False,Granite Arena
+V0016,2027-06-10,,False,Granite Arena
+V0016,2027-06-11,,True,Granite Arena
+V0016,2027-06-12,,True,Granite Arena
+V0016,2027-06-14,,False,Granite Arena
+V0016,2027-06-15,,False,Granite Arena
+V0016,2027-06-16,,False,Granite Arena
+V0016,2027-06-18,,True,Granite Arena
+V0016,2027-06-19,,True,Granite Arena
+V0016,2027-06-22,,False,Granite Arena
+V0016,2027-06-23,,False,Granite Arena
+V0016,2027-06-24,,False,Granite Arena
+V0016,2027-06-25,,True,Granite Arena
+V0016,2027-06-26,,True,Granite Arena
+V0016,2027-06-28,,False,Granite Arena
+V0016,2027-06-29,,False,Granite Arena
+V0016,2027-06-30,,False,Granite Arena
+V0027,2027-03-02,,False,Blue Pavilion Hall
+V0027,2027-03-03,,False,Blue Pavilion Hall
+V0027,2027-03-04,,False,Blue Pavilion Hall
+V0027,2027-03-06,,True,Blue Pavilion Hall
+V0027,2027-03-07,,True,Blue Pavilion Hall
+V0027,2027-03-10,,False,Blue Pavilion Hall
+V0027,2027-03-12,,True,Blue Pavilion Hall
+V0027,2027-03-14,,True,Blue Pavilion Hall
+V0027,2027-03-15,,False,Blue Pavilion Hall
+V0027,2027-03-16,,False,Blue Pavilion Hall
+V0027,2027-03-17,,False,Blue Pavilion Hall
+V0027,2027-03-18,,False,Blue Pavilion Hall
+V0027,2027-03-19,,True,Blue Pavilion Hall
+V0027,2027-03-21,,True,Blue Pavilion Hall
+V0027,2027-03-22,,False,Blue Pavilion Hall
+V0027,2027-03-23,,False,Blue Pavilion Hall
+V0027,2027-03-24,,False,Blue Pavilion Hall
+V0027,2027-03-25,,False,Blue Pavilion Hall
+V0027,2027-03-26,,True,Blue Pavilion Hall
+V0027,2027-03-27,,True,Blue Pavilion Hall
+V0027,2027-03-28,,True,Blue Pavilion Hall
+V0027,2027-03-29,,False,Blue Pavilion Hall
+V0027,2027-03-31,,False,Blue Pavilion Hall
+V0027,2027-04-01,,False,Blue Pavilion Hall
+V0027,2027-04-04,,True,Blue Pavilion Hall
+V0027,2027-04-05,,False,Blue Pavilion Hall
+V0027,2027-04-06,,False,Blue Pavilion Hall
+V0027,2027-04-09,,True,Blue Pavilion Hall
+V0027,2027-04-12,,False,Blue Pavilion Hall
+V0027,2027-04-13,,False,Blue Pavilion Hall
+V0027,2027-04-15,,False,Blue Pavilion Hall
+V0027,2027-04-16,,True,Blue Pavilion Hall
+V0027,2027-04-17,,True,Blue Pavilion Hall
+V0027,2027-04-18,,True,Blue Pavilion Hall
+V0027,2027-04-19,,False,Blue Pavilion Hall
+V0027,2027-04-20,,False,Blue Pavilion Hall
+V0027,2027-04-22,,False,Blue Pavilion Hall
+V0027,2027-04-23,,True,Blue Pavilion Hall
+V0027,2027-04-26,,False,Blue Pavilion Hall
+V0027,2027-04-27,,False,Blue Pavilion Hall
+V0027,2027-04-28,,False,Blue Pavilion Hall
+V0027,2027-04-29,,False,Blue Pavilion Hall
+V0027,2027-05-01,,True,Blue Pavilion Hall
+V0027,2027-05-02,,True,Blue Pavilion Hall
+V0027,2027-05-03,,False,Blue Pavilion Hall
+V0027,2027-05-05,,False,Blue Pavilion Hall
+V0027,2027-05-10,,False,Blue Pavilion Hall
+V0027,2027-05-11,,False,Blue Pavilion Hall
+V0027,2027-05-12,,False,Blue Pavilion Hall
+V0027,2027-05-13,,False,Blue Pavilion Hall
+V0027,2027-05-14,,True,Blue Pavilion Hall
+V0027,2027-05-15,,True,Blue Pavilion Hall
+V0027,2027-05-18,,False,Blue Pavilion Hall
+V0027,2027-05-19,,False,Blue Pavilion Hall
+V0027,2027-05-20,,False,Blue Pavilion Hall
+V0027,2027-05-21,,True,Blue Pavilion Hall
+V0027,2027-05-24,,False,Blue Pavilion Hall
+V0027,2027-05-25,,False,Blue Pavilion Hall
+V0027,2027-05-27,,False,Blue Pavilion Hall
+V0027,2027-05-31,,False,Blue Pavilion Hall
+V0027,2027-06-02,,False,Blue Pavilion Hall
+V0027,2027-06-03,,False,Blue Pavilion Hall
+V0027,2027-06-04,,True,Blue Pavilion Hall
+V0027,2027-06-05,,True,Blue Pavilion Hall
+V0027,2027-06-06,,True,Blue Pavilion Hall
+V0027,2027-06-07,,False,Blue Pavilion Hall
+V0027,2027-06-08,,False,Blue Pavilion Hall
+V0027,2027-06-09,,False,Blue Pavilion Hall
+V0027,2027-06-15,,False,Blue Pavilion Hall
+V0027,2027-06-16,,False,Blue Pavilion Hall
+V0027,2027-06-17,,False,Blue Pavilion Hall
+V0027,2027-06-19,,True,Blue Pavilion Hall
+V0027,2027-06-23,,False,Blue Pavilion Hall
+V0027,2027-06-26,,True,Blue Pavilion Hall
+V0027,2027-06-28,,False,Blue Pavilion Hall
+V0027,2027-06-30,,False,Blue Pavilion Hall
+V0028,2027-05-01,,True,Summit Bowl
+V0028,2027-05-02,,True,Summit Bowl
+V0028,2027-05-03,,False,Summit Bowl
+V0028,2027-05-04,,False,Summit Bowl
+V0028,2027-05-05,,False,Summit Bowl
+V0028,2027-05-06,,False,Summit Bowl
+V0028,2027-05-09,,True,Summit Bowl
+V0028,2027-05-11,,False,Summit Bowl
+V0028,2027-05-12,,False,Summit Bowl
+V0028,2027-05-13,,False,Summit Bowl
+V0028,2027-05-14,,True,Summit Bowl
+V0028,2027-05-15,,True,Summit Bowl
+V0028,2027-05-18,,False,Summit Bowl
+V0028,2027-05-19,,False,Summit Bowl
+V0028,2027-05-20,,False,Summit Bowl
+V0028,2027-05-21,,True,Summit Bowl
+V0028,2027-05-22,,True,Summit Bowl
+V0028,2027-05-23,,True,Summit Bowl
+V0028,2027-05-24,,False,Summit Bowl
+V0028,2027-05-25,,False,Summit Bowl
+V0028,2027-05-26,,False,Summit Bowl
+V0028,2027-05-27,,False,Summit Bowl
+V0028,2027-05-31,,False,Summit Bowl
+V0028,2027-06-02,,False,Summit Bowl
+V0028,2027-06-03,,False,Summit Bowl
+V0028,2027-06-05,,True,Summit Bowl
+V0028,2027-06-06,,True,Summit Bowl
+V0028,2027-06-07,,False,Summit Bowl
+V0028,2027-06-08,,False,Summit Bowl
+V0028,2027-06-09,,False,Summit Bowl
+V0028,2027-06-10,,False,Summit Bowl
+V0028,2027-06-13,,True,Summit Bowl
+V0028,2027-06-14,,False,Summit Bowl
+V0028,2027-06-15,,False,Summit Bowl
+V0028,2027-06-17,,False,Summit Bowl
+V0028,2027-06-20,,True,Summit Bowl
+V0028,2027-06-21,,False,Summit Bowl
+V0028,2027-06-22,,False,Summit Bowl
+V0028,2027-06-23,,False,Summit Bowl
+V0028,2027-06-25,,True,Summit Bowl
+V0028,2027-06-26,,True,Summit Bowl
+V0028,2027-06-28,,False,Summit Bowl
+V0028,2027-06-29,,False,Summit Bowl
+V0028,2027-06-30,,False,Summit Bowl
+V0269,2027-03-02,,False,Summit Auditorium
+V0269,2027-03-03,,False,Summit Auditorium
+V0269,2027-03-04,,False,Summit Auditorium
+V0269,2027-03-05,,True,Summit Auditorium
+V0269,2027-03-08,,False,Summit Auditorium
+V0269,2027-03-11,,False,Summit Auditorium
+V0269,2027-03-12,,True,Summit Auditorium
+V0269,2027-03-13,,True,Summit Auditorium
+V0269,2027-03-14,,True,Summit Auditorium
+V0269,2027-03-16,,False,Summit Auditorium
+V0269,2027-03-17,,False,Summit Auditorium
+V0269,2027-03-18,,False,Summit Auditorium
+V0269,2027-03-19,,True,Summit Auditorium
+V0269,2027-03-22,,False,Summit Auditorium
+V0269,2027-03-23,,False,Summit Auditorium
+V0269,2027-03-26,,True,Summit Auditorium
+V0269,2027-03-28,,True,Summit Auditorium
+V0269,2027-03-29,,False,Summit Auditorium
+V0269,2027-03-30,,False,Summit Auditorium
+V0269,2027-04-01,,False,Summit Auditorium
+V0269,2027-04-03,,True,Summit Auditorium
+V0269,2027-04-05,,False,Summit Auditorium
+V0269,2027-04-06,,False,Summit Auditorium
+V0269,2027-04-08,,False,Summit Auditorium
+V0269,2027-04-10,,True,Summit Auditorium
+V0269,2027-04-11,,True,Summit Auditorium
+V0269,2027-04-12,,False,Summit Auditorium
+V0269,2027-04-13,,False,Summit Auditorium
+V0269,2027-04-15,,False,Summit Auditorium
+V0269,2027-04-17,,True,Summit Auditorium
+V0269,2027-04-20,,False,Summit Auditorium
+V0269,2027-04-21,,False,Summit Auditorium
+V0269,2027-04-23,,True,Summit Auditorium
+V0269,2027-04-26,,False,Summit Auditorium
+V0269,2027-04-27,,False,Summit Auditorium
+V0269,2027-04-28,,False,Summit Auditorium
+V0269,2027-04-29,,False,Summit Auditorium
+V0269,2027-05-01,,True,Summit Auditorium
+V0269,2027-05-03,,False,Summit Auditorium
+V0269,2027-05-05,,False,Summit Auditorium
+V0269,2027-05-06,,False,Summit Auditorium
+V0269,2027-05-08,,True,Summit Auditorium
+V0269,2027-05-09,,True,Summit Auditorium
+V0269,2027-05-11,,False,Summit Auditorium
+V0269,2027-05-12,,False,Summit Auditorium
+V0269,2027-05-16,,True,Summit Auditorium
+V0269,2027-05-19,,False,Summit Auditorium
+V0269,2027-05-21,,True,Summit Auditorium
+V0269,2027-05-26,,False,Summit Auditorium
+V0269,2027-05-27,,False,Summit Auditorium
+V0269,2027-05-29,,True,Summit Auditorium
+V0269,2027-05-30,,True,Summit Auditorium
+V0269,2027-05-31,,False,Summit Auditorium
+V0269,2027-06-01,,False,Summit Auditorium
+V0269,2027-06-02,,False,Summit Auditorium
+V0269,2027-06-03,,False,Summit Auditorium
+V0269,2027-06-05,,True,Summit Auditorium
+V0269,2027-06-08,,False,Summit Auditorium
+V0269,2027-06-09,,False,Summit Auditorium
+V0269,2027-06-10,,False,Summit Auditorium
+V0269,2027-06-13,,True,Summit Auditorium
+V0269,2027-06-14,,False,Summit Auditorium
+V0269,2027-06-15,,False,Summit Auditorium
+V0269,2027-06-16,,False,Summit Auditorium
+V0269,2027-06-17,,False,Summit Auditorium
+V0269,2027-06-18,,True,Summit Auditorium
+V0269,2027-06-19,,True,Summit Auditorium
+V0269,2027-06-21,,False,Summit Auditorium
+V0269,2027-06-22,,False,Summit Auditorium
+V0269,2027-06-23,,False,Summit Auditorium
+V0269,2027-06-24,,False,Summit Auditorium
+V0269,2027-06-27,,True,Summit Auditorium
+V0269,2027-06-28,,False,Summit Auditorium
+V0269,2027-06-29,,False,Summit Auditorium
+V0269,2027-06-30,,False,Summit Auditorium

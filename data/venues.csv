@@ -1,0 +1,328 @@
+venue_id,venue_name,venue_type,capacity,genres_booked,metro_city_id,locality,state,season,lat,lon,avg_ticket_price_usd
+V0001,Copper Room,club,350,country|jazz|folk rock,C001,New York,NY,year-round,40.76931,-74.01572,24
+V0002,Echo Theater,theater,2950,metal|indie pop|r&b,C001,New York,NY,year-round,40.71045,-73.94402,67
+V0003,Magnolia Playhouse,theater,1800,hip hop|jazz|r&b|metal,C001,New York,NY,year-round,40.70953,-74.00829,69
+V0004,Echo Music Hall,music hall,4100,electronic|r&b|hip hop,C001,New York,NY,year-round,40.76338,-73.9535,60
+V0005,Harbor Room,club,250,indie pop|rock,C001,New York,NY,year-round,40.68173,-73.99961,9
+V0006,Northside Amphitheater,amphitheater,16550,rock|metal|hip hop,C001,New York,NY,May-Oct,40.74529,-73.94097,84
+V0007,Harbor Music Hall,music hall,3000,country|folk rock|jazz|hip hop,C001,New York,NY,year-round,40.73882,-73.99927,80
+V0008,Juniper Ballroom,theater,2950,folk rock|electronic,C001,New York suburbs,NY,year-round,40.58796,-74.12015,30
+V0009,Juniper Basement,club,500,country|indie pop,C001,New York,NY,year-round,40.75867,-74.02117,25
+V0010,Union Room,club,500,hip hop|jazz|r&b|folk rock,C001,New York,NY,year-round,40.74777,-74.00896,33
+V0011,Golden Playhouse,theater,2550,metal|r&b|hip hop|indie pop,C001,New York,NY,year-round,40.67639,-74.02985,53
+V0012,Copper Playhouse,theater,1400,folk rock|hip hop,C001,New York,NY,year-round,40.73742,-73.92319,45
+V0013,Harbor Lounge,club,400,folk rock|metal|indie pop|hip hop,C001,New York,NY,year-round,40.71976,-74.02341,52
+V0014,Echo Room,club,300,indie pop|metal|hip hop,C001,New York,NY,year-round,40.70325,-73.99108,7
+V0015,Echo Social Club,club,850,folk rock|r&b|metal|rock|indie pop,C002,Los Angeles suburbs,CA,year-round,33.66304,-118.02336,24
+V0016,Granite Arena,arena,13550,jazz|country|hip hop|rock|indie pop,C002,Los Angeles,CA,year-round,34.04573,-118.20147,125
+V0017,Golden Amphitheater,amphitheater,9800,rock|country|jazz|hip hop,C002,Los Angeles,CA,May-Oct,34.06623,-118.2699,100
+V0018,Echo Theater,theater,1350,jazz|indie pop|hip hop,C002,Los Angeles,CA,year-round,34.08828,-118.26443,64
+V0019,Summit Theater,theater,2300,folk rock|electronic|r&b,C002,Los Angeles,CA,year-round,34.01167,-118.242,51
+V0020,Northside Arena,arena,15750,electronic|r&b|metal|country|hip hop,C002,Los Angeles,CA,year-round,34.05228,-118.24331,110
+V0021,Granite Auditorium,music hall,3150,jazz|hip hop|indie pop|rock,C002,Los Angeles,CA,year-round,34.09753,-118.29709,78
+V0022,Echo Arena,arena,16500,country|jazz|r&b|hip hop,C002,Los Angeles suburbs,CA,year-round,33.95472,-118.41853,85
+V0023,Echo Theater,theater,2400,indie pop|r&b,C002,Los Angeles,CA,year-round,34.06539,-118.27167,73
+V0024,Riverside Room,club,300,electronic|folk rock|indie pop,C002,Los Angeles,CA,year-round,34.02112,-118.25852,39
+V0025,Velvet Playhouse,theater,1450,hip hop|indie pop|folk rock,C002,Los Angeles,CA,year-round,34.06152,-118.23912,73
+V0026,Union Lounge,club,850,metal|folk rock|hip hop|rock,C002,Los Angeles,CA,year-round,34.00529,-118.2941,33
+V0027,Blue Pavilion Hall,music hall,5300,r&b|jazz|indie pop|hip hop,C002,Los Angeles,CA,year-round,34.0704,-118.16829,66
+V0028,Summit Bowl,amphitheater,8650,indie pop|r&b|hip hop,C002,Los Angeles,CA,May-Oct,34.0619,-118.27621,88
+V0029,Magnolia Coliseum,arena,14400,country|metal|folk rock|hip hop,C003,Chicago,IL,year-round,41.81777,-87.65178,111
+V0030,Harbor Bowl,amphitheater,7100,metal|rock|r&b|indie pop|hip hop,C003,Chicago suburbs,IL,May-Oct,41.92171,-88.17407,88
+V0031,Juniper Playhouse,theater,2350,r&b|folk rock|hip hop,C003,Chicago suburbs,IL,year-round,41.95831,-87.15037,40
+V0032,Union Basement,club,400,country|indie pop|r&b|folk rock,C003,Chicago,IL,year-round,41.88239,-87.61609,25
+V0033,Copper Ballroom,theater,2700,electronic|indie pop|hip hop,C003,Chicago suburbs,IL,year-round,42.30074,-88.03088,52
+V0034,Velvet Ballroom,theater,2850,folk rock|metal|country|hip hop,C003,Chicago,IL,year-round,41.85913,-87.64754,45
+V0035,Magnolia Lounge,club,900,r&b|hip hop|indie pop|folk rock,C003,Chicago,IL,year-round,41.87617,-87.68002,16
+V0036,Magnolia Social Club,club,300,electronic|indie pop|hip hop,C003,Chicago,IL,year-round,41.87767,-87.62491,35
+V0037,Golden Ballroom,theater,2850,jazz|metal|indie pop,C003,Chicago suburbs,IL,year-round,41.66243,-87.87582,46
+V0038,Granite Playhouse,theater,2250,rock|hip hop|folk rock|electronic|indie pop,C003,Chicago suburbs,IL,year-round,41.56132,-87.66578,32
+V0039,Northside Bowl,amphitheater,8350,r&b|rock|indie pop|folk rock,C003,Chicago,IL,May-Oct,41.87592,-87.61949,76
+V0040,Northside Lounge,club,550,folk rock|metal|hip hop|rock|indie pop,C003,Chicago,IL,year-round,41.88861,-87.63189,33
+V0041,Harbor Auditorium,music hall,4650,rock|folk rock|indie pop|hip hop,C003,Chicago suburbs,IL,year-round,41.61433,-87.46158,69
+V0042,Harbor Basement,club,400,country|hip hop,C004,Dallas,TX,year-round,32.78024,-96.8074,32
+V0043,Ironworks Coliseum,arena,16050,jazz|country|rock,C004,Dallas,TX,year-round,32.74236,-96.75999,120
+V0044,Ironworks Basement,club,300,hip hop|rock|jazz|country,C004,Dallas,TX,year-round,32.77793,-96.83788,20
+V0045,Granite Auditorium,music hall,4750,folk rock|r&b,C004,Dallas suburbs,TX,year-round,32.39117,-96.35034,83
+V0046,Velvet Coliseum,arena,12450,metal|folk rock,C004,Dallas,TX,year-round,32.81516,-96.81069,104
+V0047,Golden Theater,theater,1600,folk rock|metal|r&b|jazz,C004,Dallas suburbs,TX,year-round,33.14755,-96.62849,43
+V0048,Golden Social Club,club,750,metal|rock|indie pop|r&b,C004,Dallas,TX,year-round,32.84592,-96.80457,29
+V0049,Magnolia Lawn,amphitheater,16200,r&b|indie pop|jazz,C004,Dallas,TX,May-Oct,32.77657,-96.79733,77
+V0050,Ironworks Playhouse,theater,2300,folk rock|electronic|rock|jazz,C004,Dallas suburbs,TX,year-round,33.01537,-96.6822,47
+V0051,Echo Coliseum,arena,19750,folk rock|metal,C004,Dallas,TX,year-round,32.76323,-96.76636,122
+V0052,Magnolia Social Club,club,750,r&b|folk rock,C004,Dallas,TX,year-round,32.80911,-96.80675,32
+V0053,Riverside Lounge,club,400,hip hop|metal|r&b,C004,Dallas,TX,year-round,32.77333,-96.78614,35
+V0054,Ironworks Playhouse,theater,1100,r&b|electronic|hip hop,C005,Houston suburbs,TX,year-round,29.66858,-95.18465,65
+V0055,Summit Lounge,club,300,jazz|folk rock,C005,Houston,TX,year-round,29.79992,-95.32612,27
+V0056,Union Auditorium,music hall,4250,hip hop|r&b|metal|indie pop,C005,Houston suburbs,TX,year-round,30.176,-95.48586,68
+V0057,Golden Music Hall,music hall,3500,country|hip hop,C005,Houston suburbs,TX,year-round,29.55989,-95.3894,52
+V0058,Echo Auditorium,music hall,3750,electronic|metal|country|hip hop,C005,Houston suburbs,TX,year-round,30.18787,-95.73734,70
+V0059,Velvet Lounge,club,400,hip hop|r&b|jazz,C005,Houston suburbs,TX,year-round,29.72746,-95.06979,33
+V0060,Blue Lawn,amphitheater,10900,country|hip hop|electronic,C005,Houston,TX,May-Oct,29.74498,-95.37413,79
+V0061,Velvet Social Club,club,750,country|hip hop|electronic,C005,Houston,TX,year-round,29.78181,-95.29531,17
+V0062,Riverside Playhouse,theater,2500,metal|hip hop|r&b|indie pop,C005,Houston suburbs,TX,year-round,29.9597,-95.34189,57
+V0063,Summit Playhouse,theater,1250,r&b|metal|hip hop,C005,Houston,TX,year-round,29.80443,-95.35386,44
+V0064,Echo Amphitheater,amphitheater,7700,folk rock|hip hop,C005,Houston suburbs,TX,May-Oct,29.96983,-95.23546,78
+V0065,Neon Center,arena,19500,rock|metal|indie pop|jazz,C006,Atlanta,GA,year-round,33.74055,-84.38264,104
+V0066,Ironworks Basement,club,700,rock|folk rock|electronic|metal|hip hop,C006,Atlanta,GA,year-round,33.73729,-84.38376,22
+V0067,Velvet Lounge,club,450,country|metal|electronic,C006,Atlanta suburbs,GA,year-round,33.97267,-84.33074,47
+V0068,Echo Theater,theater,1800,electronic|country|metal|hip hop,C006,Atlanta,GA,year-round,33.73987,-84.39207,42
+V0069,Echo Social Club,club,700,rock|electronic|r&b|indie pop|hip hop,C006,Atlanta,GA,year-round,33.80237,-84.38277,16
+V0070,Neon Playhouse,theater,1950,rock|hip hop|electronic|country,C006,Atlanta,GA,year-round,33.77219,-84.33048,66
+V0071,Northside Theater,theater,1450,indie pop|rock|country,C006,Atlanta,GA,year-round,33.7578,-84.37246,53
+V0072,Golden Arena,arena,13850,metal|hip hop|country,C006,Atlanta,GA,year-round,33.78908,-84.41304,114
+V0073,Riverside Playhouse,theater,2500,rock|folk rock|hip hop|country,C006,Atlanta suburbs,GA,year-round,33.74552,-83.81933,64
+V0074,Lantern Theater,theater,2950,jazz|folk rock|electronic|rock|hip hop,C006,Atlanta,GA,year-round,33.72365,-84.31998,46
+V0075,Juniper Lawn,amphitheater,15500,country|indie pop|rock,C007,Washington suburbs,DC,May-Oct,39.09792,-77.15384,75
+V0076,Union Room,club,250,hip hop|rock|indie pop|country,C007,Washington,DC,year-round,38.89622,-77.02658,36
+V0077,Blue Basement,club,300,indie pop|metal|hip hop,C007,Washington,DC,year-round,38.91507,-77.01352,16
+V0078,Blue Playhouse,theater,2800,metal|country|hip hop,C007,Washington,DC,year-round,38.90231,-77.03474,51
+V0079,Union Lounge,club,850,electronic|metal|hip hop,C007,Washington,DC,year-round,38.86023,-77.04653,44
+V0080,Riverside Room,club,650,hip hop|metal|indie pop,C007,Washington,DC,year-round,38.88256,-77.04473,31
+V0081,Ironworks Music Hall,music hall,4200,country|hip hop|electronic,C007,Washington suburbs,DC,year-round,38.92852,-77.21002,74
+V0082,Magnolia Social Club,club,250,r&b|metal|electronic,C007,Washington suburbs,DC,year-round,39.39076,-76.8408,31
+V0083,Riverside Center,arena,16000,indie pop|jazz|metal|r&b|hip hop,C007,Washington suburbs,DC,year-round,38.74322,-77.68099,95
+V0084,Lantern Room,club,750,country|electronic,C007,Washington suburbs,DC,year-round,38.98853,-77.63505,38
+V0085,Velvet Basement,club,750,country|indie pop|folk rock|hip hop,C008,Philadelphia,PA,year-round,39.94079,-75.12439,21
+V0086,Echo Coliseum,arena,14700,folk rock|electronic,C008,Philadelphia,PA,year-round,39.94862,-75.10026,101
+V0087,Blue Playhouse,theater,2600,jazz|metal,C008,Philadelphia suburbs,PA,year-round,40.14066,-75.31038,52
+V0088,Lantern Room,club,550,r&b|jazz|metal|folk rock|hip hop,C008,Philadelphia suburbs,PA,year-round,40.19385,-74.91026,37
+V0089,Golden Theater,theater,1850,hip hop|metal,C008,Philadelphia,PA,year-round,39.95108,-75.16747,70
+V0090,Copper Playhouse,theater,2050,electronic|jazz|hip hop,C008,Philadelphia,PA,year-round,39.99315,-75.22002,47
+V0091,Magnolia Theater,theater,2550,indie pop|metal,C008,Philadelphia,PA,year-round,39.93263,-75.09637,54
+V0092,Summit Arena,arena,15600,electronic|country|rock|folk rock|hip hop,C008,Philadelphia suburbs,PA,year-round,39.98962,-75.29917,121
+V0093,Summit Lounge,club,750,metal|folk rock,C008,Philadelphia,PA,year-round,39.96368,-75.25601,23
+V0094,Ironworks Theater,theater,1900,jazz|r&b|hip hop,C008,Philadelphia suburbs,PA,year-round,39.89553,-74.75922,60
+V0095,Juniper Lawn,amphitheater,13900,jazz|folk rock|hip hop,C009,Miami,FL,May-Oct,25.75608,-80.14979,80
+V0096,Northside Social Club,club,500,metal|rock|hip hop,C009,Miami,FL,year-round,25.77669,-80.20475,20
+V0097,Harbor Theater,theater,1600,rock|electronic|r&b|indie pop,C009,Miami,FL,year-round,25.81589,-80.2314,50
+V0098,Union Ballroom,theater,1350,folk rock|electronic|jazz|hip hop,C009,Miami suburbs,FL,year-round,25.74311,-79.73533,64
+V0099,Lantern Room,club,850,rock|indie pop|folk rock|country|hip hop,C009,Miami suburbs,FL,year-round,25.81318,-79.96658,30
+V0100,Summit Lounge,club,850,folk rock|r&b|hip hop,C009,Miami,FL,year-round,25.76272,-80.18471,29
+V0101,Golden Theater,theater,1150,r&b|folk rock|country|rock,C009,Miami,FL,year-round,25.70616,-80.18607,36
+V0102,Copper Center,arena,12800,indie pop|jazz|metal|country,C009,Miami suburbs,FL,year-round,25.65187,-80.27331,112
+V0103,Ironworks Ballroom,theater,2850,country|rock|hip hop|indie pop,C009,Miami,FL,year-round,25.79386,-80.19522,60
+V0104,Copper Playhouse,theater,2650,indie pop|jazz|folk rock|hip hop,C009,Miami,FL,year-round,25.76139,-80.21239,55
+V0105,Union Arena,arena,13800,folk rock|metal,C010,Phoenix suburbs,AZ,year-round,33.00106,-111.7425,122
+V0106,Ironworks Room,club,300,r&b|hip hop|indie pop|country,C010,Phoenix suburbs,AZ,year-round,33.39295,-112.23064,31
+V0107,Lantern Lounge,club,350,hip hop|r&b,C010,Phoenix,AZ,year-round,33.4451,-112.06454,36
+V0108,Neon Ballroom,theater,2850,rock|country|hip hop,C010,Phoenix,AZ,year-round,33.44839,-112.065,67
+V0109,Northside Lounge,club,450,jazz|hip hop,C010,Phoenix suburbs,AZ,year-round,33.92314,-112.31902,33
+V0110,Harbor Social Club,club,700,country|indie pop,C010,Phoenix suburbs,AZ,year-round,33.47741,-111.93403,11
+V0111,Ironworks Arena,arena,15750,r&b|folk rock|jazz|hip hop,C010,Phoenix suburbs,AZ,year-round,33.815,-111.6938,110
+V0112,Union Ballroom,theater,2550,hip hop|metal|rock,C010,Phoenix,AZ,year-round,33.43489,-112.0898,55
+V0113,Union Ballroom,theater,2600,electronic|jazz|indie pop|hip hop,C010,Phoenix suburbs,AZ,year-round,33.27379,-111.74517,72
+V0114,Riverside Ballroom,theater,2200,indie pop|country|r&b,C011,Boston,MA,year-round,42.35749,-71.13212,55
+V0115,Magnolia Lawn,amphitheater,15850,metal|folk rock|jazz|r&b|indie pop,C011,Boston suburbs,MA,May-Oct,42.32328,-71.19414,75
+V0116,Copper Social Club,club,450,metal|hip hop|r&b|folk rock|indie pop,C011,Boston suburbs,MA,year-round,42.773,-70.87654,23
+V0117,Echo Music Hall,music hall,4850,folk rock|jazz|country|hip hop|indie pop,C011,Boston,MA,year-round,42.35975,-71.05896,72
+V0118,Harbor Theater,theater,1550,indie pop|rock|hip hop,C011,Boston suburbs,MA,year-round,42.61569,-70.41778,61
+V0119,Juniper Pavilion Hall,music hall,3500,jazz|rock|metal|indie pop,C011,Boston,MA,year-round,42.37357,-70.97111,88
+V0120,Granite Theater,theater,2400,r&b|hip hop|indie pop,C011,Boston,MA,year-round,42.38936,-71.09937,61
+V0121,Blue Room,club,900,country|metal|indie pop|rock,C011,Boston,MA,year-round,42.36447,-71.05566,22
+V0122,Golden Room,club,600,rock|electronic|folk rock|metal|indie pop,C011,Boston,MA,year-round,42.35687,-71.05557,42
+V0123,Golden Lounge,club,800,r&b|folk rock,C012,San Francisco suburbs,CA,year-round,37.79077,-122.56146,52
+V0124,Granite Theater,theater,2200,r&b|country|hip hop,C012,San Francisco,CA,year-round,37.79704,-122.42958,56
+V0125,Granite Pavilion Hall,music hall,3300,metal|r&b|indie pop,C012,San Francisco suburbs,CA,year-round,37.93478,-122.2736,80
+V0126,Copper Room,club,900,indie pop|electronic,C012,San Francisco,CA,year-round,37.81706,-122.46308,28
+V0127,Juniper Basement,club,400,jazz|metal,C012,San Francisco,CA,year-round,37.75211,-122.46101,31
+V0128,Juniper Basement,club,550,metal|r&b,C012,San Francisco,CA,year-round,37.71379,-122.45466,44
+V0129,Granite Basement,club,850,jazz|indie pop|folk rock|metal,C012,San Francisco,CA,year-round,37.77287,-122.41382,35
+V0130,Northside Music Hall,music hall,4250,r&b|metal|country|jazz,C012,San Francisco,CA,year-round,37.72677,-122.38682,76
+V0131,Ironworks Playhouse,theater,1100,folk rock|jazz|indie pop,C012,San Francisco suburbs,CA,year-round,38.23111,-122.05509,53
+V0132,Golden Ballroom,theater,2100,country|folk rock,C013,Seattle,WA,year-round,47.55965,-122.34517,46
+V0133,Blue Social Club,club,850,electronic|indie pop|hip hop|folk rock,C013,Seattle,WA,year-round,47.57898,-122.29274,43
+V0134,Blue Playhouse,theater,1400,hip hop|indie pop|electronic|country|folk rock,C013,Seattle,WA,year-round,47.58196,-122.30075,76
+V0135,Ironworks Bowl,amphitheater,17200,hip hop|indie pop|folk rock,C013,Seattle,WA,May-Oct,47.61664,-122.31234,75
+V0136,Ironworks Social Club,club,700,electronic|jazz|rock|r&b|indie pop|folk rock,C013,Seattle,WA,year-round,47.56178,-122.25862,37
+V0137,Riverside Auditorium,music hall,5100,jazz|indie pop|electronic|folk rock,C013,Seattle,WA,year-round,47.60479,-122.3268,50
+V0138,Velvet Basement,club,500,r&b|electronic|indie pop,C013,Seattle suburbs,WA,year-round,47.76031,-122.29839,30
+V0139,Union Amphitheater,amphitheater,6500,electronic|metal|folk rock|country,C013,Seattle,WA,May-Oct,47.56834,-122.25222,76
+V0140,Velvet Music Hall,music hall,4100,folk rock|metal|rock|indie pop,C014,Minneapolis,MN,year-round,44.97775,-93.26626,69
+V0141,Harbor Amphitheater,amphitheater,13700,electronic|folk rock|rock,C014,Minneapolis,MN,May-Oct,44.99997,-93.27388,90
+V0142,Copper Lounge,club,300,jazz|indie pop|electronic|rock|folk rock,C014,Minneapolis,MN,year-round,44.97629,-93.26733,47
+V0143,Golden Ballroom,theater,2850,country|r&b|rock,C014,Minneapolis suburbs,MN,year-round,44.94339,-93.39352,60
+V0144,Neon Room,club,350,hip hop|indie pop|folk rock,C014,Minneapolis suburbs,MN,year-round,45.09499,-93.20492,41
+V0145,Magnolia Basement,club,600,hip hop|indie pop|country|jazz|folk rock,C014,Minneapolis suburbs,MN,year-round,44.57482,-93.66502,34
+V0146,Riverside Theater,theater,1700,rock|folk rock|indie pop|country,C014,Minneapolis,MN,year-round,44.9885,-93.18974,53
+V0147,Magnolia Pavilion Hall,music hall,3550,hip hop|rock,C014,Minneapolis,MN,year-round,45.03301,-93.27543,83
+V0148,Velvet Basement,club,300,hip hop|rock|metal|electronic,C015,San Diego suburbs,CA,year-round,32.87827,-117.526,44
+V0149,Velvet Pavilion Hall,music hall,3650,country|rock,C015,San Diego,CA,year-round,32.73199,-117.20131,79
+V0150,Northside Pavilion Hall,music hall,4900,r&b|jazz,C015,San Diego,CA,year-round,32.77584,-117.17996,76
+V0151,Velvet Auditorium,music hall,3750,country|indie pop|electronic,C015,San Diego suburbs,CA,year-round,32.45857,-117.03132,80
+V0152,Golden Lounge,club,850,rock|metal|folk rock,C015,San Diego suburbs,CA,year-round,32.88162,-117.41233,38
+V0153,Lantern Playhouse,theater,1450,electronic|rock,C015,San Diego,CA,year-round,32.7301,-117.21086,64
+V0154,Copper Auditorium,music hall,3350,jazz|hip hop|electronic,C015,San Diego suburbs,CA,year-round,32.48405,-117.07053,83
+V0155,Blue Basement,club,400,rock|r&b,C015,San Diego,CA,year-round,32.71441,-117.1829,42
+V0156,Northside Room,club,550,electronic|rock|metal|indie pop,C016,Tampa,FL,year-round,27.89243,-82.48387,28
+V0157,Ironworks Room,club,250,hip hop|folk rock,C016,Tampa,FL,year-round,27.94249,-82.40556,21
+V0158,Juniper Playhouse,theater,1350,rock|r&b|metal|jazz,C016,Tampa suburbs,FL,year-round,27.91739,-82.55864,40
+V0159,Union Music Hall,music hall,4300,electronic|folk rock|indie pop|hip hop,C016,Tampa,FL,year-round,27.93293,-82.4321,67
+V0160,Golden Ballroom,theater,1700,jazz|electronic|hip hop,C016,Tampa suburbs,FL,year-round,28.14345,-82.1276,48
+V0161,Copper Basement,club,500,indie pop|country|folk rock|electronic,C016,Tampa,FL,year-round,27.95796,-82.41751,43
+V0162,Echo Playhouse,theater,2900,jazz|indie pop|electronic|r&b,C016,Tampa,FL,year-round,27.9196,-82.48177,57
+V0163,Granite Theater,theater,1450,jazz|folk rock,C016,Tampa suburbs,FL,year-round,28.40676,-82.13754,43
+V0164,Harbor Ballroom,theater,2400,jazz|metal|indie pop|hip hop|folk rock,C017,Denver,CO,year-round,39.75326,-104.97423,49
+V0165,Union Playhouse,theater,2700,indie pop|rock|country|hip hop,C017,Denver suburbs,CO,year-round,39.51295,-104.81414,45
+V0166,Velvet Pavilion Hall,music hall,3050,electronic|country|rock|indie pop,C017,Denver suburbs,CO,year-round,39.8564,-104.61438,65
+V0167,Lantern Lounge,club,300,country|indie pop|rock,C017,Denver suburbs,CO,year-round,39.83916,-104.48329,33
+V0168,Ironworks Theater,theater,1450,indie pop|jazz|electronic|country,C017,Denver,CO,year-round,39.73089,-104.90136,63
+V0169,Union Playhouse,theater,2500,hip hop|rock|electronic|jazz|folk rock,C017,Denver suburbs,CO,year-round,39.42745,-105.31232,48
+V0170,Juniper Playhouse,theater,1650,country|rock|indie pop,C017,Denver,CO,year-round,39.7346,-104.98964,53
+V0171,Velvet Amphitheater,amphitheater,13350,metal|rock,C018,Baltimore,MD,May-Oct,39.25929,-76.61276,82
+V0172,Copper Room,club,250,folk rock|indie pop|hip hop,C018,Baltimore,MD,year-round,39.27347,-76.56517,16
+V0173,Lantern Lounge,club,550,r&b|folk rock|indie pop,C018,Baltimore,MD,year-round,39.28515,-76.64895,14
+V0174,Copper Social Club,club,900,folk rock|r&b|metal,C018,Baltimore suburbs,MD,year-round,39.38974,-76.48681,20
+V0175,Juniper Coliseum,arena,15850,rock|metal|hip hop,C018,Baltimore,MD,year-round,39.31201,-76.66306,108
+V0176,Union Amphitheater,amphitheater,12400,r&b|country|electronic,C018,Baltimore,MD,May-Oct,39.26291,-76.69046,83
+V0177,Granite Social Club,club,400,indie pop|rock|r&b|country|hip hop,C018,Baltimore suburbs,MD,year-round,39.18829,-76.64708,22
+V0178,Neon Social Club,club,450,country|rock|r&b|metal,C019,Orlando,FL,year-round,28.57962,-81.36638,19
+V0179,Riverside Lounge,club,750,metal|jazz,C019,Orlando,FL,year-round,28.60835,-81.36527,38
+V0180,Magnolia Pavilion Hall,music hall,4050,jazz|folk rock|indie pop,C019,Orlando suburbs,FL,year-round,28.93646,-81.06523,61
+V0181,Magnolia Room,club,750,jazz|country,C019,Orlando,FL,year-round,28.52911,-81.36176,30
+V0182,Riverside Theater,theater,1250,hip hop|jazz|folk rock,C019,Orlando,FL,year-round,28.52916,-81.4,66
+V0183,Granite Playhouse,theater,2650,country|metal,C019,Orlando suburbs,FL,year-round,28.16574,-81.48808,74
+V0184,Granite Theater,theater,2200,r&b|electronic,C019,Orlando,FL,year-round,28.54477,-81.36083,48
+V0185,Granite Music Hall,music hall,5050,rock|r&b,C020,Charlotte,NC,year-round,35.21184,-80.88779,81
+V0186,Echo Music Hall,music hall,2750,indie pop|metal|jazz|rock,C020,Charlotte,NC,year-round,35.20946,-80.84369,70
+V0187,Velvet Room,club,650,folk rock|r&b|jazz,C020,Charlotte suburbs,NC,year-round,34.81649,-81.01277,27
+V0188,Lantern Ballroom,theater,2700,folk rock|rock,C020,Charlotte,NC,year-round,35.26494,-80.86285,42
+V0189,Northside Social Club,club,850,metal|r&b|folk rock,C020,Charlotte suburbs,NC,year-round,35.34619,-80.84666,40
+V0190,Northside Theater,theater,2950,electronic|rock,C020,Charlotte,NC,year-round,35.16077,-80.83557,47
+V0191,Copper Playhouse,theater,2750,country|jazz|indie pop,C020,Charlotte suburbs,NC,year-round,35.09494,-80.65592,69
+V0192,Magnolia Lounge,club,500,rock|folk rock|country,C021,San Antonio,TX,year-round,29.41289,-98.51185,25
+V0193,Echo Basement,club,600,indie pop|electronic,C021,San Antonio,TX,year-round,29.44088,-98.55099,14
+V0194,Riverside Amphitheater,amphitheater,16950,folk rock|r&b|metal|electronic,C021,San Antonio,TX,May-Oct,29.39629,-98.53279,86
+V0195,Juniper Basement,club,350,jazz|hip hop|country|folk rock,C021,San Antonio,TX,year-round,29.41462,-98.52952,34
+V0196,Summit Social Club,club,750,r&b|folk rock|jazz,C021,San Antonio,TX,year-round,29.44037,-98.48332,29
+V0197,Riverside Theater,theater,1750,hip hop|r&b,C021,San Antonio,TX,year-round,29.46705,-98.47288,54
+V0198,Harbor Ballroom,theater,1650,hip hop|folk rock|electronic|r&b,C021,San Antonio,TX,year-round,29.41391,-98.49971,69
+V0199,Northside Room,club,450,country|metal|electronic|folk rock,C022,Portland,OR,year-round,45.54347,-122.63997,31
+V0200,Echo Music Hall,music hall,5000,folk rock|indie pop|electronic|hip hop,C022,Portland,OR,year-round,45.55441,-122.73545,72
+V0201,Golden Theater,theater,1800,folk rock|country|indie pop,C022,Portland suburbs,OR,year-round,45.95131,-122.40345,43
+V0202,Summit Room,club,650,metal|jazz|indie pop,C022,Portland,OR,year-round,45.57626,-122.71424,23
+V0203,Neon Social Club,club,450,r&b|country,C022,Portland,OR,year-round,45.51184,-122.68465,37
+V0204,Neon Basement,club,300,jazz|hip hop|indie pop|folk rock,C022,Portland,OR,year-round,45.50111,-122.63026,46
+V0205,Velvet Auditorium,music hall,4800,indie pop|electronic|folk rock,C022,Portland,OR,year-round,45.53475,-122.66836,76
+V0206,Riverside Social Club,club,850,hip hop|r&b|metal,C023,Sacramento,CA,year-round,38.51462,-121.48819,23
+V0207,Summit Social Club,club,700,hip hop|folk rock|jazz,C023,Sacramento,CA,year-round,38.58605,-121.48606,60
+V0208,Golden Lounge,club,700,r&b|electronic,C023,Sacramento,CA,year-round,38.60515,-121.49903,32
+V0209,Granite Auditorium,music hall,3600,folk rock|metal|rock,C023,Sacramento,CA,year-round,38.57034,-121.50513,63
+V0210,Magnolia Basement,club,600,country|hip hop,C023,Sacramento suburbs,CA,year-round,38.754,-121.66593,23
+V0211,Lantern Lounge,club,350,jazz|country,C023,Sacramento,CA,year-round,38.61468,-121.52337,38
+V0212,Blue Room,club,300,r&b|indie pop|hip hop|jazz,C023,Sacramento,CA,year-round,38.57906,-121.49326,20
+V0213,Harbor Room,club,850,folk rock|jazz|r&b,C024,Pittsburgh,PA,year-round,40.46478,-79.9915,16
+V0214,Echo Playhouse,theater,2350,r&b|rock|electronic|folk rock,C024,Pittsburgh suburbs,PA,year-round,40.07189,-79.76864,59
+V0215,Blue Room,club,350,folk rock|country,C024,Pittsburgh,PA,year-round,40.43008,-80.00752,34
+V0216,Neon Ballroom,theater,1950,indie pop|r&b|rock,C024,Pittsburgh,PA,year-round,40.44349,-80.04229,57
+V0217,Magnolia Amphitheater,amphitheater,8900,rock|country,C024,Pittsburgh,PA,May-Oct,40.44053,-79.97166,100
+V0218,Lantern Lounge,club,300,country|jazz,C024,Pittsburgh suburbs,PA,year-round,40.29447,-80.64081,18
+V0219,Velvet Basement,club,850,hip hop|r&b|country|folk rock,C024,Pittsburgh,PA,year-round,40.44236,-79.96652,41
+V0220,Harbor Playhouse,theater,2050,indie pop|metal|electronic|folk rock,C025,Austin,TX,year-round,30.33441,-97.75541,56
+V0221,Neon Social Club,club,800,folk rock|r&b|indie pop,C025,Austin,TX,year-round,30.24514,-97.73073,40
+V0222,Harbor Pavilion Hall,music hall,3950,r&b|hip hop|indie pop|country,C025,Austin,TX,year-round,30.26878,-97.74106,77
+V0223,Juniper Theater,theater,1750,rock|hip hop|jazz|indie pop,C025,Austin,TX,year-round,30.25448,-97.76795,60
+V0224,Magnolia Room,club,450,metal|rock|country|indie pop,C025,Austin suburbs,TX,year-round,30.25975,-97.93232,60
+V0225,Velvet Bowl,amphitheater,15100,electronic|r&b|rock|jazz|indie pop,C025,Austin,TX,May-Oct,30.25378,-97.74979,78
+V0226,Echo Lawn,amphitheater,18700,rock|country,C025,Austin,TX,May-Oct,30.25978,-97.74638,85
+V0227,Union Music Hall,music hall,3900,metal|r&b|country|indie pop,C026,Las Vegas,NV,year-round,36.16922,-115.16226,59
+V0228,Harbor Theater,theater,2300,r&b|hip hop,C026,Las Vegas suburbs,NV,year-round,36.07625,-115.0552,57
+V0229,Magnolia Basement,club,550,metal|hip hop|country|jazz,C026,Las Vegas,NV,year-round,36.1656,-115.13423,42
+V0230,Lantern Ballroom,theater,1400,country|electronic,C026,Las Vegas,NV,year-round,36.17093,-115.11105,59
+V0231,Ironworks Social Club,club,650,hip hop|folk rock|electronic|metal,C026,Las Vegas suburbs,NV,year-round,35.95177,-115.26888,23
+V0232,Golden Arena,arena,15600,metal|indie pop,C026,Las Vegas suburbs,NV,year-round,35.87474,-114.62093,103
+V0233,Neon Lounge,club,750,rock|electronic,C026,Las Vegas,NV,year-round,36.11772,-115.12189,22
+V0234,Magnolia Lounge,club,600,r&b|electronic|jazz|rock,C027,Cincinnati,OH,year-round,39.09351,-84.54797,22
+V0235,Lantern Ballroom,theater,2600,country|folk rock,C027,Cincinnati suburbs,OH,year-round,38.77625,-84.64891,54
+V0236,Golden Auditorium,music hall,3700,folk rock|jazz,C027,Cincinnati,OH,year-round,39.09459,-84.50714,79
+V0237,Copper Social Club,club,550,electronic|r&b|jazz|indie pop,C027,Cincinnati,OH,year-round,39.10306,-84.51204,48
+V0238,Copper Ballroom,theater,1350,r&b|jazz,C027,Cincinnati suburbs,OH,year-round,38.84577,-83.91847,48
+V0239,Riverside Music Hall,music hall,5300,jazz|hip hop|electronic,C027,Cincinnati,OH,year-round,39.14288,-84.44976,65
+V0240,Northside Theater,theater,2600,indie pop|folk rock,C027,Cincinnati,OH,year-round,39.1033,-84.51351,69
+V0241,Riverside Playhouse,theater,1850,jazz|r&b|electronic|rock,C028,Kansas City,MO,year-round,39.08563,-94.55701,75
+V0242,Lantern Room,club,750,metal|folk rock|hip hop,C028,Kansas City suburbs,MO,year-round,38.94251,-95.16183,16
+V0243,Lantern Bowl,amphitheater,10500,indie pop|rock|metal,C028,Kansas City,MO,May-Oct,39.06374,-94.59017,93
+V0244,Harbor Playhouse,theater,1750,folk rock|country|indie pop|hip hop,C028,Kansas City suburbs,MO,year-round,38.87207,-94.55654,69
+V0245,Juniper Basement,club,850,country|rock|r&b,C028,Kansas City suburbs,MO,year-round,38.97701,-94.56291,31
+V0246,Blue Playhouse,theater,3000,r&b|folk rock|indie pop|hip hop,C028,Kansas City suburbs,MO,year-round,38.89041,-94.48364,58
+V0247,Velvet Room,club,650,r&b|jazz|rock|folk rock,C028,Kansas City,MO,year-round,39.09963,-94.59068,45
+V0248,Northside Playhouse,theater,1750,r&b|country,C029,Columbus,OH,year-round,39.933,-82.95418,58
+V0249,Golden Basement,club,400,hip hop|rock|folk rock|jazz,C029,Columbus suburbs,OH,year-round,40.32587,-83.08187,27
+V0250,Ironworks Room,club,400,rock|country|electronic|hip hop,C029,Columbus,OH,year-round,39.92072,-83.0726,39
+V0251,Lantern Playhouse,theater,1450,folk rock|rock|indie pop,C029,Columbus,OH,year-round,39.95921,-82.99766,68
+V0252,Echo Auditorium,music hall,3000,jazz|folk rock|rock,C029,Columbus,OH,year-round,39.97531,-83.00599,69
+V0253,Lantern Lounge,club,450,rock|country,C029,Columbus,OH,year-round,39.91947,-82.93298,30
+V0254,Harbor Basement,club,750,hip hop|country,C029,Columbus,OH,year-round,39.94456,-83.02477,29
+V0255,Summit Lounge,club,700,indie pop|country,C030,Indianapolis,IN,year-round,39.77499,-86.13347,43
+V0256,Copper Social Club,club,300,rock|jazz|hip hop,C030,Indianapolis,IN,year-round,39.72297,-86.22503,37
+V0257,Echo Music Hall,music hall,3750,indie pop|r&b|rock,C030,Indianapolis,IN,year-round,39.77473,-86.13126,81
+V0258,Ironworks Room,club,750,country|rock|r&b,C030,Indianapolis,IN,year-round,39.74747,-86.17305,50
+V0259,Granite Auditorium,music hall,4200,metal|country|jazz,C030,Indianapolis suburbs,IN,year-round,39.30694,-86.23292,57
+V0260,Golden Social Club,club,850,folk rock|electronic|country,C030,Indianapolis suburbs,IN,year-round,39.66162,-85.58915,27
+V0261,Summit Ballroom,theater,2600,hip hop|electronic,C030,Indianapolis,IN,year-round,39.76651,-86.14261,62
+V0262,Magnolia Basement,club,450,folk rock|country|indie pop,C031,Cleveland suburbs,OH,year-round,41.67108,-81.33367,25
+V0263,Lantern Lounge,club,250,metal|rock|hip hop,C031,Cleveland,OH,year-round,41.46682,-81.69404,35
+V0264,Harbor Arena,arena,17300,rock|electronic|indie pop|r&b,C031,Cleveland,OH,year-round,41.50567,-81.69433,111
+V0265,Copper Amphitheater,amphitheater,17350,country|electronic|hip hop,C031,Cleveland suburbs,OH,May-Oct,41.13807,-81.47547,65
+V0266,Granite Basement,club,500,metal|rock|country|hip hop,C031,Cleveland suburbs,OH,year-round,42.00395,-81.59283,22
+V0267,Union Social Club,club,550,electronic|folk rock,C031,Cleveland,OH,year-round,41.50068,-81.69312,36
+V0268,Riverside Basement,club,650,folk rock|hip hop|indie pop|rock,C031,Cleveland,OH,year-round,41.51306,-81.702,36
+V0269,Summit Auditorium,music hall,2750,jazz|indie pop|folk rock,C032,Nashville,TN,year-round,36.15882,-86.7929,77
+V0270,Northside Music Hall,music hall,3300,electronic|indie pop,C032,Nashville suburbs,TN,year-round,36.07373,-87.2301,54
+V0271,Golden Bowl,amphitheater,12100,metal|r&b|hip hop|rock|folk rock,C032,Nashville,TN,May-Oct,36.13908,-86.8124,92
+V0272,Northside Theater,theater,1550,electronic|r&b|folk rock,C032,Nashville,TN,year-round,36.15156,-86.72909,62
+V0273,Riverside Social Club,club,550,folk rock|rock|indie pop,C032,Nashville,TN,year-round,36.14559,-86.80933,16
+V0274,Copper Social Club,club,550,hip hop|electronic|indie pop,C032,Nashville,TN,year-round,36.15493,-86.75246,11
+V0275,Granite Room,club,800,indie pop|folk rock|hip hop,C032,Nashville,TN,year-round,36.16265,-86.7709,45
+V0276,Ironworks Bowl,amphitheater,19000,indie pop|folk rock|country,C033,Salt Lake City suburbs,UT,May-Oct,40.713,-111.50142,84
+V0277,Juniper Room,club,750,metal|electronic|country|jazz|indie pop|folk rock,C033,Salt Lake City,UT,year-round,40.75541,-111.93957,24
+V0278,Union Theater,theater,1750,jazz|hip hop|metal|electronic|indie pop,C033,Salt Lake City,UT,year-round,40.71633,-111.86651,52
+V0279,Echo Room,club,450,rock|folk rock|hip hop|r&b,C033,Salt Lake City,UT,year-round,40.72758,-111.91865,32
+V0280,Blue Auditorium,music hall,3550,country|hip hop|electronic|indie pop|folk rock,C033,Salt Lake City,UT,year-round,40.74793,-111.9759,69
+V0281,Northside Theater,theater,2750,electronic|hip hop|r&b|folk rock|indie pop,C033,Salt Lake City,UT,year-round,40.76564,-111.88827,50
+V0282,Summit Room,club,500,jazz|country|r&b|indie pop|folk rock,C034,Raleigh suburbs,NC,year-round,35.27659,-78.77713,35
+V0283,Echo Room,club,650,electronic|indie pop|rock|folk rock,C034,Raleigh,NC,year-round,35.79593,-78.65186,32
+V0284,Riverside Playhouse,theater,1150,country|folk rock|indie pop|r&b,C034,Raleigh,NC,year-round,35.78486,-78.6362,47
+V0285,Neon Ballroom,theater,2750,electronic|r&b|folk rock,C034,Raleigh,NC,year-round,35.7913,-78.60846,58
+V0286,Granite Lounge,club,500,metal|electronic|indie pop|jazz,C034,Raleigh,NC,year-round,35.78112,-78.61716,43
+V0287,Summit Room,club,350,hip hop|metal|indie pop|folk rock,C034,Raleigh,NC,year-round,35.77999,-78.65455,26
+V0288,Velvet Playhouse,theater,1650,hip hop|indie pop|country|jazz,C035,New Orleans,LA,year-round,29.95638,-90.09143,62
+V0289,Golden Auditorium,music hall,3150,rock|metal|country|hip hop,C035,New Orleans suburbs,LA,year-round,29.62336,-90.30192,61
+V0290,Granite Basement,club,550,jazz|rock|electronic,C035,New Orleans suburbs,LA,year-round,29.71627,-89.94072,29
+V0291,Riverside Basement,club,450,metal|folk rock|jazz|hip hop,C035,New Orleans,LA,year-round,29.92522,-90.07768,35
+V0292,Echo Lawn,amphitheater,9950,r&b|electronic|folk rock|jazz,C035,New Orleans,LA,May-Oct,29.93917,-90.00639,102
+V0293,Ironworks Lawn,amphitheater,12100,r&b|folk rock|hip hop,C035,New Orleans,LA,May-Oct,29.9285,-90.09118,71
+V0294,Union Basement,club,850,country|indie pop|hip hop,C036,Detroit,MI,year-round,42.35772,-83.05126,26
+V0295,Velvet Playhouse,theater,1300,jazz|r&b|rock|electronic|hip hop,C036,Detroit,MI,year-round,42.33901,-83.03181,69
+V0296,Echo Bowl,amphitheater,15950,rock|hip hop|metal,C036,Detroit,MI,May-Oct,42.314,-83.10555,102
+V0297,Harbor Bowl,amphitheater,19500,jazz|r&b|electronic|rock,C036,Detroit,MI,May-Oct,42.31093,-83.03109,75
+V0298,Granite Coliseum,arena,15850,rock|metal,C036,Detroit suburbs,MI,year-round,42.65465,-83.54332,102
+V0299,Echo Lawn,amphitheater,7100,electronic|folk rock|hip hop,C036,Detroit suburbs,MI,May-Oct,42.4954,-83.49813,75
+V0300,Blue Music Hall,music hall,4550,metal|electronic|indie pop|hip hop,C036,Detroit,MI,year-round,42.33936,-82.99537,75
+V0301,Blue Theater,theater,2350,country|metal|rock,C036,Detroit,MI,year-round,42.34612,-83.09431,48
+V0302,Blue Playhouse,theater,2050,indie pop|country|folk rock|hip hop,C036,Detroit,MI,year-round,42.36897,-83.11249,69
+V0303,Magnolia Lawn,amphitheater,15500,electronic|rock|indie pop|r&b,C037,St. Louis suburbs,MO,May-Oct,39.14415,-90.39199,95
+V0304,Echo Basement,club,550,jazz|r&b|country|indie pop,C037,St. Louis,MO,year-round,38.60995,-90.16041,35
+V0305,Magnolia Theater,theater,2350,jazz|rock|indie pop|metal,C037,St. Louis,MO,year-round,38.68619,-90.21375,62
+V0306,Blue Social Club,club,550,folk rock|metal,C037,St. Louis,MO,year-round,38.57322,-90.19893,35
+V0307,Harbor Theater,theater,1400,folk rock|indie pop|rock,C037,St. Louis,MO,year-round,38.64818,-90.16804,58
+V0308,Granite Basement,club,600,electronic|metal|folk rock|r&b,C037,St. Louis,MO,year-round,38.64675,-90.18171,29
+V0309,Neon Center,arena,17000,indie pop|electronic|folk rock|rock,C037,St. Louis,MO,year-round,38.57477,-90.18967,106
+V0310,Blue Pavilion Hall,music hall,3100,r&b|hip hop|electronic,C038,Milwaukee,WI,year-round,43.00297,-87.91652,73
+V0311,Ironworks Room,club,600,metal|jazz,C038,Milwaukee,WI,year-round,43.03632,-87.92457,16
+V0312,Union Lounge,club,500,rock|jazz|metal,C038,Milwaukee suburbs,WI,year-round,43.51827,-88.04506,40
+V0313,Echo Music Hall,music hall,5150,jazz|metal,C038,Milwaukee suburbs,WI,year-round,43.11155,-88.63827,73
+V0314,Copper Pavilion Hall,music hall,2900,rock|r&b,C038,Milwaukee,WI,year-round,43.04123,-87.83755,73
+V0315,Golden Social Club,club,600,folk rock|indie pop|hip hop|rock,C038,Milwaukee suburbs,WI,year-round,43.03216,-87.65004,32
+V0316,Harbor Room,club,350,rock|jazz|hip hop|electronic|folk rock,C039,Richmond,VA,year-round,37.50516,-77.45438,38
+V0317,Neon Social Club,club,550,folk rock|hip hop|electronic|r&b,C039,Richmond suburbs,VA,year-round,37.49316,-77.90222,34
+V0318,Union Music Hall,music hall,4700,country|electronic|indie pop|metal|folk rock,C039,Richmond,VA,year-round,37.52205,-77.50713,63
+V0319,Golden Lawn,amphitheater,14150,indie pop|jazz|metal|hip hop|folk rock,C039,Richmond,VA,May-Oct,37.56862,-77.35818,85
+V0320,Union Social Club,club,350,hip hop|metal|r&b|jazz,C039,Richmond,VA,year-round,37.52394,-77.43864,44
+V0321,Golden Playhouse,theater,2850,country|hip hop|jazz|rock|folk rock,C039,Richmond,VA,year-round,37.48067,-77.46512,66
+V0322,Lantern Ballroom,theater,1250,jazz|rock|folk rock,C040,Boise,ID,year-round,43.59687,-116.24245,53
+V0323,Golden Lounge,club,450,hip hop|country|r&b|folk rock,C040,Boise,ID,year-round,43.60294,-116.20509,44
+V0324,Copper Music Hall,music hall,4800,metal|jazz|folk rock,C040,Boise suburbs,ID,year-round,43.80188,-116.02508,74
+V0325,Riverside Ballroom,theater,2550,country|hip hop|folk rock,C040,Boise,ID,year-round,43.64366,-116.18377,53
+V0326,Harbor Social Club,club,750,jazz|r&b|hip hop|metal|folk rock,C040,Boise,ID,year-round,43.59414,-116.15049,33
+V0327,Riverside Room,club,600,indie pop|jazz|folk rock,C040,Boise suburbs,ID,year-round,43.64402,-115.74694,60
